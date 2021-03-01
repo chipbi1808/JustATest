@@ -1,0 +1,44 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{3/1/2021}
+
+\begin{document}
+
+\maketitle
+$\text{Bài 1:}$ Cho $\Delta ABC$ vuông tại $A$ ($AB<AC$). Trên cạnh $AC$ lấy điểm $D\not = A,C$; dựng $DE\bot BC$. Tiếp tuyến tại $C$ của đường tròn tâm $K$ ngoại tiếp $\Delta DEC$ cắt tia $DE$ tại $M$. Đường thẳng qua $C$ vuông góc với $MK$ cắt đường tròn $(K)$ tại $F$ ($F$ nằm trong $\Delta ABC$).\\
+   a) Chứng minh: $AC.DC=CE.BC$\\
+   b) Tia $CF\cap AB=I$. Chứng minh: $I$ là trung điểm của $AB$.
+
+$\text{Bài 2:}$ Cho các số dương $a,b,c$ thỏa mãn $a+b+c=1.$ Tìm giá trị nhỏ nhất 
+của biểu thức:
+
+$$P=2(a^2b+b^2c+c^2a)+(a^2+b^2+c^2)+4abc$$
+
+$\text{Bài 3:}$ Giải phương trình: $$(2x+3)\sqrt{4a^2+12x+11}+3x\sqrt{9x^2+2}=-5x-3$$
+
+$\text{Bài 4:}$ Giải phương trình 
+$$(\frac{8x^3+2001}{2002})^3=4004x-2001$$
+
+$\text{Bài 5:}$ Giải hệ phương trình $$\left\{\begin{matrix} 4x^3-y^3+x+4y=0 \\10x^2-7xy+2y^2=9 \end{matrix}\right.$$
+
+$\text{Bài 6:}$ Giải phương trình $$x\sqrt{1+4x^2}+\frac{x+1}{2}\sqrt{x^2+2x+2}=\frac{x+3}{4}\sqrt{x^2+6x+13}$$
+
+$\text{Bài 7:}$ Chứng minh rằng phương trình sau không có nghiệm nguyên $$x^{15}+y^{15}+z^{15}=19^{2003}+7^{2003}+9^{2003}$$
+
+$\text{Bài 8:}$ Giải phương trình nghiệm nguyên $$2x=y+\sqrt{y^2-(y-2)(2x-1)}$$
+
+$\text{Bài 9:}$ Tam giác $ABC$ nội tiếp đường tròn tâm $O$ và ngoại tiếp đường tròn tâm tâm $I$. Đường thẳng $AI$ cắt lại đường tròn tâm $O$ tại $D$. Trên đoạn $BC$ và trên cung $BDC$ của $(O)$ lấy hai điểm $F$ và $E$ sao cho $\widehat{BAF}=\widehat{CAE}<\frac{1}{2}\widehat{BAC}$. Gọi $G$ là trung điểm của $IF$. Chứng minh rằng: $EI$ và $DG$ cắt nhau tại một điểm nằm trên đường tròn $(O)$.
+
+$\text{Bài 10:}$ Cho $\Delta ABC$ nội tiếp $(O)$. $P$ là 1 điểm nằm trong $\Delta ABC$. Trung trực $CA,CB$ cắt $PA$ tại $E,F$. Đường thẳng qua $F$ song song với $AC$ cắt tiếp tuyến tại $C$ của $(O)$ tại $M$. Đường thẳng qua $F$ song song với $AB$ cắt tiếp tuyến tại $B$ của $(O)$ tại $N$.\\
+a) Chứng minh $MN$ là tiếp tuyến của $(O)$.\\
+b) Giả sử $MN\cap (ACM), (ABN) = S; Q \not = M, N$. Chứng minh $\Delta ABC\sim \Delta ASQ$ và $SB$ cắt $CQ$ tại 1 điểm nằm trên $(O)$.
+
+$\text{Bài 11:}$ Tìm tất cả các giá trị của m đề (d) $y=2x-m$ cắt (P) $y=x^2$ tại 2 điểm phân biệt có hoành độ dương
+
+\end{document}
