@@ -1,0 +1,56 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{2/3/2021}
+
+\begin{document}
+
+\maketitle
+
+$\text{Bài 1:}$ Từ điểm $M$ nằm ngoài $(O)$ kẻ các tiếp tuyến $MA,MB$ đến $(O)$ ($A,B$ là các tiếp điểm) và cát tuyến $MCD$ sao cho $MC<MD$ và $MC$ nằm giữa $MB$ và $MO$. Gọi $I$ là trung điểm $CD$.\\
+   a) Gọi $BI\cap (O)=J \not= B$. Chứng minh: $AD^2=JA.MD$.\\
+   b) Đường thẳng qua $I$ song song với $BD$ cắt $AB$ tại $K$. Tia $CK$ cắt $OB$ tại $G$. Khi cát tuyến $MCD$ thay đổi và thỏa mãn điều kiện đề bài thì tâm đường tròn ngoại tiếp $\Delta CIG$ thuộc đường tròn nào?
+
+$\text{Bài 2:}$ Từ điểm $M$ nằm ngoài $(O)$ kẻ các tiếp tuyến $MA,MB$ đến $(O)$ ($A,B$ là các tiếp điểm) và cát tuyến $MCD$ sao cho $MC<MD$ và $MC$ nằm giữa $MA$ và $MO$. $H=AB\cap MO$; $E$ là trung điểm $CD$. Đường thằng $CH$ cắt $(O)$ tại $F\not = C$. Đường thẳng $DF$ cắt tia $MA,MB$ lần lượt tại $P,Q$.\\
+   a) Chứng minh: $EM$ là tia phân giác của $\angle AEB$.\\
+   b) Gọi $X=EP\cap AD, Y=EQ\cap BD$. Chứng minh: $HD$ chia đôi $XY$.
+
+$\text{Bài 3:}$ Giải phương trình sau
+$$\sqrt{2x-1}+\sqrt[3]{3x-2}=2x$$
+
+$\text{Bài 4:}$ Giải phương trình sau
+$$\sqrt{x-\sqrt{x-3}}=\frac{\sqrt{3}}{2}(1+\frac{2}{\sqrt{x}})$$
+
+$\text{Bài 5:}$ Giải hệ phương trình 
+$$\left\{\begin{matrix} xy^2+4y^2+8=x(x+2) \\x+y+3=3\sqrt{2y-1}
+\end{matrix}\right.$$
+
+$\text{Bài 6:}$ Giải hệ phương trình 
+$$\left\{\begin{matrix} x^4-2x^2y=1 \\2x^2+y^2-2y=2
+\end{matrix}\right.$$
+
+$\text{Bài 7:}$ Tìm các số tự nhiên x,y,z,t thỏa mãn 
+$$\sum \frac{1}{x^2}=1$$
+
+$\text{Bài 8:}$ Tìm x,y,z thuộc Z thỏa mãn 
+$$5x^3+11y^3+13z^3=0$$
+
+$\text{Bài 9:}$ Cho đường tròn tâm $I$ nội tiếp $\Delta ABC$ tiếp xúc với $BC,CA,AB$ lần lượt tại $D,E,F$. Đường thẳng qua $A$ song song với $BC$ cắt $EF$ tại $K$. Gọi $M$ là trung điểm $BC$. Chứng minh: $MI\bot DK$.
+
+$\text{Bài 10:}$ Cho $x,y,z$ là các số thực không âm thõa mãn $x+y+z=3$. Chứng minh rằng
+$$\frac{x}{\sqrt{x^2+5}}+\frac{y}{\sqrt{y^2+5}}+\frac{3z}{\sqrt{6(z^2+5)}}\leq \frac{2.\sqrt{6}}{3}$$
+
+$\text{Bài 11:}$ Cho 3 số dương $x,y,z$ thỏa mãn $xy+yz+xz=3$. Chứng minh rằng
+$$\frac{x}{\sqrt{x^2+5}}+\frac{y}{\sqrt{y^2+5}}+\frac{3z}{\sqrt{6(z^2+5)}}\leq \frac{2.\sqrt{6}}{3}$$
+
+$\text{Bài 12:}$ Cho biểu thức
+$$A=(1-\frac{2\sqrt{2}}{a+1}):(\frac{1}{\sqrt{a}+1}-\frac{2\sqrt{a}}{a\sqrt{a}+\sqrt{a}+a+1})$$
+1. Rút gọn\\
+2. Tính A khi $a=2021-2\sqrt{2002}$ 
+
+\end{document}
