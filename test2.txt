@@ -42,10 +42,10 @@ $$5x^3+11y^3+13z^3=0$$
 
 $\text{Bài 9:}$ Cho đường tròn tâm $I$ nội tiếp $\Delta ABC$ tiếp xúc với $BC,CA,AB$ lần lượt tại $D,E,F$. Đường thẳng qua $A$ song song với $BC$ cắt $EF$ tại $K$. Gọi $M$ là trung điểm $BC$. Chứng minh: $MI\bot DK$.
 
-$\text{Bài 10:}$ Cho $x,y,z$ là các số thực không âm thõa mãn $x+y+z=3$. Chứng minh rằng
+$\text{Bài 10:}$ Cho 3 số dương $x,y,z$ thỏa mãn $xy+yz+xz=3$. Chứng minh rằng
 $$\frac{x}{\sqrt{x^2+5}}+\frac{y}{\sqrt{y^2+5}}+\frac{3z}{\sqrt{6(z^2+5)}}\leq \frac{2.\sqrt{6}}{3}$$
 
-$\text{Bài 11:}$ Cho 3 số dương $x,y,z$ thỏa mãn $xy+yz+xz=3$. Tìm min
+$\text{Bài 11:}$ Cho $x,y,z$ là các số thực không âm thõa mãn $x+y+z=3$. Tìm min
 $$P=\sum_{cyc}\frac{x}{y^3+16}$$
 
 $\text{Bài 12:}$ Cho biểu thức
