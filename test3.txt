@@ -1,0 +1,55 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{3/3/2021}
+
+\begin{document}
+
+\maketitle
+$\text{Bài 1:}$ Cho $\Delta ABC$ nội tiếp $(O)$, $P$ là 1 điểm bất kì trong tam giác và $Q$ thuộc cung nhỏ $BC$ của $(O)$. $AP\cap (O)=D\not= A$. $M$ là trung điểm $AQ$, $QP\cap (O)=K\not= Q$. Dựng đường tròn qua 2 điểm $P,K$ tiếp xúc với $AP$. Các đường thẳng $AK, MP$ cắt đường tròn này tại $E,F$. Gọi $R$ là giao điểm của đường tròn ngoại tiếp $\Delta KPD$ với $MP$. Chứng minh: $F$ là trung điểm $PR$ và $A,D,E,F$ cùng nằm trên 1 đường tròn.
+
+$\text{Bài 2:}$ Cho $\Delta ABC$ có ba đường cao AX, BY, CZ cắt nhau tại H, M trung điểm BC. P là một điểm thuộc HM. Đường tròn (K) đường kính AP cắt CA, AB lần lượt tại E, F khác A. Đường tròn ngoại tiếp tam giác AYZ cắt (K) tại G khác A\\
+a) Chứng minh P, H, G thẳng hàng\\
+b) Chứng minh tiếp tuyến tại E, F của (K) cắt nhau thuộc đường trung trực BC
+
+$\text{Bài 3:}$ Cho đường tròn $(O)$ và 1 điểm $M$ nằm ngoài đường tròn $(O)$, qua $M$ kẻ các tiếp tuyến $MA,MB$ đến đường tròn $(O)$ ($A,B$ là các tiếp điểm) và dựng cát tuyến $MCD$ sao cho $MC<MD$. Kẻ đường kính $AQ$. Đường thẳng $QC,QD\cap MO= X,Y$. Chứng minh: $O$ là trung điểm $XY$.
+
+$\text{Bài 4:}$ Tìm x,y thuộc N* thõa mãn $3^x+1=(y+1)^2$
+
+$\text{Bài 5:}$ Tìm tất cả các số nguyên x thỏa mãn 
+$$|x-3|+|x-10|+|x+101|+|x+990|+|x+1000|=2004$$
+
+$\text{Bài 6:}$ Giải phương trình sau 
+$$\sqrt{x^2-2}+2=x+\sqrt{2x-2}$$
+
+$\text{Bài 7:}$ Giải phương trình sau
+$$2x^2+x+\sqrt{x^2+3}+2x\sqrt{x^2+3}=9$$
+
+$\text{Bài 8:}$ Giải hệ phương trình 
+$$\left\{\begin{matrix} (x-y)(y^2-2y)=-1 \\x-y^2+y=2
+\end{matrix}\right.$$
+
+$\text{Bài 9:}$ Giải hệ phương trình 
+$$\left\{\begin{matrix} x^2+y^2=2xy^2 \\\frac{3}{x}+\frac{1}{y}=2
+\end{matrix}\right.$$
+
+$\text{Bài 10:}$ Cho $ad-bc=3$. Tìm giá trị nhỏ nhất của biểu thức 
+$$P=\sum a^2+ac+bd$$
+
+$\text{Bài 11:}$ Cho $a,b,c$ là các số thực dương thỏa mãn $abc=\frac{9}{4}$. Chứng minh rằng 
+$$a^3+b^3+c^3>\sum_{cyc}a.\sqrt{b+c}$$
+
+$\text{Bài 12:}$ Giải hệ phương trình 
+$$\left\{\begin{matrix} \sqrt{x+\frac{1}{y}}+\sqrt{x+y-3}=3 \\2x+y+\frac{1}{y}=3
+\end{matrix}\right.$$
+
+$\text{Bài 13:}$ Giải hệ phương trình
+$$\left\{\begin{matrix}  \frac{3}{x^2+y^2-1}+\frac{2y}{x}=1\\x^2+y^2-\frac{2x}{y}=4
+\end{matrix}\right.$$
+
+\end{document}
