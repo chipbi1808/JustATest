@@ -26,7 +26,7 @@ $$4+2\sqrt{1-x}=-3x+5\sqrt{x+1}+\sqrt{1-x^2}$$
 $\text{Bài 5:}$ Giải phương trình 
 $$\sqrt[3]{7x+1}-\sqrt[3]{x^2-x-8}+\sqrt[3]{x^2-8x-1}=2$$
 
-$\text{Bài 6:}$ Giải hệ phuowg trình 
+$\text{Bài 6:}$ Giải hệ phương trình 
 $$\left\{\begin{matrix} x^3(4y^2+1)+2\sqrt{x}=4 \\ x^2y(2+2\sqrt{4y^2+1})-\sqrt{x^2+1}=x \end{matrix}\right.$$
 
 $\text{Bài 7:}$ Giải hệ phương trình 
