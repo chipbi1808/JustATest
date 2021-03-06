@@ -1,0 +1,53 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{6/3/2021}
+
+
+\begin{document}
+
+\maketitle
+
+$\text{Bài 1:}$ Cho đường tròn $(O)$ đường kính $AB$. Gọi $I$ là điểm bất kì trên đoạn thẳng $AO (I\not= A,O)$. Đường thẳng qua $I$ và vuông góc với $AB$ cắt đường tròn $(O)$ tại $C; D$. Gọi $E$ là điểm trên đường tròn $(O)$ sao cho $D$ là điểm chính giữa cung $AE$. Gọi $K= AE\cap CD$. Tìm vị trí của $I$ trên đoạn thẳng $AO$ để $KC=KA+KO$.
+
+$\text{Bài 2:}$ Cho tứ giác ABCD nội tiếp trong đường tròn (O). Chứng minh AB.CD+BC.AD=BD.AC (Định lý Ptoleme)
+
+$\text{Bài 3:}$ Cho tứ giác $ABCD$ nội tiếp 1 đường tròn $(O)$. $M$ nằm trên đường thẳng kéo dài của đường chéo $DB$, sao cho $MA,MC$ là tiếp tuyến của đường tròn $(O)$. Tiếp tuyến tại $B$ với đường tròn $(O)$ cắt $MC$ tại $N$ và $CD$ tại $P$, $ND$ cắt đường tròn $(O)$ tại $E$. Chứng minh: $\overline{A,E,P}$.
+
+$\text{Bài 4:}$ Giải hệ phương trình 
+$$\left\{\begin{matrix} \sqrt{2x+1}+\sqrt{2y+1}=\frac{(x-y)^2}{2} \\(x+y)(x+2y)+3x+2y=4
+\end{matrix}\right.$$
+
+$\text{Bài 5:}$ Giải hệ phương trình 
+$$\left\{\begin{matrix} x^2+2+y^2+2xy=11y \\y(2x+y)^2=2x^2+13y+4
+\end{matrix}\right.$$
+
+$\text{Bài 6:}$ Giải phương trình 
+$$\sqrt[4]{x}+\sqrt[4]{2-x}=\sqrt[4]{\frac{4-x}{3}}+\sqrt[4]{\frac{2x+3}{3}}$$
+
+$\text{Bài 7:}$ Giải phương trình
+$$(x^4+x^3)(x\sqrt{x+1}+1)+x^3+x^2-4=2\sqrt{\frac{x+1}{x}}$$
+
+$\text{Bài 8:}$ Tìm tất cả các giá trị của m để phương trình $x^2+mx+8=0$ và phương trình $x^2+x+m=0$ có ít nhất 1 nghiệm chung
+
+$\text{Bài 9:}$ Giải phương trình nghiệm nguyên $y^2+2y=4x^2y+8x+7$
+
+$\text{Bài 10:}$ Tìm tất cả các số nguyên dương x,y,z là nghiệm của phương trình $x^3(y^3+z^3)=2020(xyz+2)$, biết $x>1$ và $y+z$ chia hết cho 101
+
+$\text{Bài 11:}$ Giải phương trình $\sqrt[3]{x+6}+x^2=2-7\sqrt{x-1}$
+
+$\text{Bài 12:}$ Giải hệ phương trình 
+$$\left\{\begin{matrix} \sqrt{x}+\sqrt{x-y-1}=1 \\y^2+x+2y\sqrt{x}-y^2x=0
+\end{matrix}\right.$$
+
+$\text{Bài 13:}$ Cho a,b,c là các số thực dương thỏa mãn $a\leq b\leq 3\leq c; c\geq b+1;a+b\geq c.$. Tìm min của
+$$K=\frac{2abc+a+b+c(ab-1)}{(a+1)(b+1)(c+1)}$$
+
+$\text{Bài 14:}$ Cho các số thực dương a,b,c thỏa mãn $a^2+b^2+c^2=1$.Chứng minh
+$$\sum_{cyc}\sqrt{\frac{ab+2c^2}{1+ab-c^2}}\geq ab+bc+ca+2$$
+\end{document}
