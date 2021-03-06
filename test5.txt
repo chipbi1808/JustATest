@@ -39,7 +39,7 @@ $\text{Bài 9:}$ Giải phương trình nghiệm nguyên $y^2+2y=4x^2y+8x+7$
 
 $\text{Bài 10:}$ Tìm tất cả các số nguyên dương x,y,z là nghiệm của phương trình $x^3(y^3+z^3)=2020(xyz+2)$, biết $x>1$ và $y+z$ chia hết cho 101
 
-$\text{Bài 11:}$ Giải phương trình $\sqrt[3]{x+6}+x^2=2-7\sqrt{x-1}$
+$\text{Bài 11:}$ Giải phương trình $\sqrt[3]{x+6}+x^2=7-\sqrt{x-1}$
 
 $\text{Bài 12:}$ Giải hệ phương trình 
 $$\left\{\begin{matrix} \sqrt{x}+\sqrt{x-y-1}=1 \\y^2+x+2y\sqrt{x}-y^2x=0
