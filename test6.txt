@@ -22,7 +22,7 @@ Giải hệ phương trình $\left\{\begin{matrix} xy+y^2+x=7y\\\frac{x^2}{y}+x=
 \end{matrix}\right.$
 
 $\boxed{\textbf{Bài 5:}}$ Giải phương trình $\frac{\sqrt{x+1}}{\sqrt{x+1}-\sqrt{3-x}}=x-\frac{1}{2}$. Giải hệ phương trình
-$\left\{\begin{matrix}  x^2+\sqrt{x}=2y\\y^2+2\sqrt{y}=2x
+$\left\{\begin{matrix}  x^2+\sqrt{x}=2y\\y^2+\sqrt{y}=2x
 \end{matrix}\right.$
 
 $\boxed{\textbf{Bài 6:}}$ Giải hệ phương trình
