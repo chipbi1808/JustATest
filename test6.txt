@@ -1,0 +1,55 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{8/3/2021}
+
+\begin{document}
+
+\maketitle
+$\boxed{\textbf{Bài 1:}}$ Cho $\Delta ABC$ nội tiếp $(O)$; các đường cao $BD,CE$ cắt nhau ở $H$. Gọi $N$ là trung điểm $DE$. $T$ là giao điểm 2 tiếp tuyến từ $B,C$ của $(O)$. Chứng minh: $\overline{A,N,T}$.
+
+$\boxed{\textbf{Bài 2:}}$ Cho đường tròn tâm $O$ đường kính $BC$, điểm $A$ nằm trên $(O)$ ($A\not= B,C)$. Các tiếp tuyến tại $B,A$ của $(O)$ cắt nhau tại điểm $M$. $MC\cap (O)=D \not= C$. Gọi $H$ là trung điểm $AB$, $N$ là trung điểm của $AM$. $I,K$ lần lượt là tâm vòng tròn ngoại tiếp, trọng tâm các $\Delta MAB, MNB$. Chứng minh: $IK\bot BN$.
+
+$\boxed{\textbf{Bài 3:}}$ Cho $\Delta ABC$ vuông tại $A$. $D$ là điểm trên tia đối của tia $BC$, kẻ tiếp tuyến $DE$ với đường tròn $(C;CA)$ ($A,E$ khác phía nhau so với $BC$). Đường thẳng qua $A$ vuông góc với $BC$ cắt đường thẳng $CE$ tại $F$, đường thẳng $BF$ cắt $DE$ tại $M$. Qua $B$ kẻ đường thẳng song song với $CM$ cắt $DE$ tại $N$. Chứng minh: $M$ là trung điểm $NE$.
+
+$\boxed{\textbf{Bài 4:}}$ Giải bất phương trình $(x^2-4x)\sqrt{2x^2-3x-2}\geq 0$.
+Giải hệ phương trình $\left\{\begin{matrix} xy+y^2+x=7y\\\frac{x^2}{y}+x=12
+\end{matrix}\right.$
+
+$\boxed{\textbf{Bài 5:}}$ Giải phương trình $\frac{\sqrt{x+1}}{\sqrt{x+1}-\sqrt{3-x}}=x-\frac{1}{2}$. Giải hệ phương trình
+$\left\{\begin{matrix}  x^2+\sqrt{x}=2y\\y^2+2\sqrt{y}=2x
+\end{matrix}\right.$
+
+$\boxed{\textbf{Bài 6:}}$ Giải hệ phương trình
+$$\left\{\begin{matrix}  (x+\sqrt{x^2+3})(y+\frac{1}{2}+\sqrt{y^2+y+1})=\frac{3}{2}\\ x^4+2(3-8y)x^2+16y-7=0
+\end{matrix}\right.$$
+
+$\boxed{\textbf{Bài 7:}}$ Giải hệ phương trình 
+$$\left\{\begin{matrix}  2\sqrt{x+y}=y^2+y-x\\ \sqrt{y-1}=\sqrt{x+3y+1}-4
+\end{matrix}\right.$$
+
+$\boxed{\textbf{Bài 8:}}$ Tìm nghiệm nguyên dương của phương trình 
+$$2x^2-8x+62=(x-1)y^2+(x^2-6x+5)y$$
+
+$\boxed{\textbf{Bài 9:}}$ Tìm tất cả các cặp số nguyên dương $(x,y)$ thỏa mãn 
+$$2^x-y^2+4y+61=0$$
+
+$\boxed{\textbf{Bài 10:}}$ Chứng minh rằng với a, b, c là các số thực khác 0 thì tồn tại ít nhất 1 trong các phương trình sau có nghiệm 
+$$4ax^2+2(b+c)x+c=0;4bx^2+2(a+c)+a=0;4cx^2+2(b+a)x+b=0$$
+
+$\boxed{\textbf{Bài 11:}}$ Cho phương trình $2x^2-4mx-2m^2-1=0(1)$. Chứng tỏ phương trình luôn có nghiệm và Tính Q khi $m=3$
+$$Q=(8x_1^2-50x_1-70)(8x_2^2-50x_2-70)+2094$$
+
+$\boxed{\textbf{Bài 12:}}$ Cho a, b, c là các số thực. Chứng minh rằng
+$$a(a+b)^3+b(b+c)^3+c(c+a)^3\geq 0$$
+
+$\boxed{\textbf{Bài 13:}}$ Cho $a,b,c>0$. Chứng minh rằng 
+$$\frac{(a+b+c)^{2}}{a^{2}+b^{2}+c^{2}}+\frac{1}{2}(\frac{a^{3}+b^{3}+c^{3}}{abc}-\frac{a^{2}+b^{2}+c^{2}}{ab+bc+ca})\geq 4$$
+
+
+\end{document}
