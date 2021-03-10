@@ -1,0 +1,48 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{10/3/2021}
+
+\begin{document}
+
+\maketitle
+$\boxed{\textbf{Bài 1:}}$ Cho $\Delta ABC$ ngoại tiếp $(O)$; tiếp xúc với các cạnh BC,AC,AB tại D,E,F. Đường thẳng qua A song song với BC cắt DE,DF tại M,N.MF cắt (I)=K, AK cắt (I)=L. Chứng minh L thuộc (DMN)
+
+$\boxed{\textbf{Bài 2:}}$ Cho $\Delta ABC$ nội tiếp $(O)$ có trực tâm H. Gọi P là điểm nằm trên (HBC) (P<>B,H,C) và nằm trong tam giác ABC. PB cắt (O)=M<>B,PC cắt (O)=N<>C.BM cắt AC tại E,CN cắt AB tại F,(AME) cắt (ANF) tại Q<>A. Chứng minh M,N,Q thẳng hàng
+
+$\boxed{\textbf{Bài 3:}}$ Cho $\Delta ABC$ nhọn, không cân có 2 đường cao BE,CF. Gọi AM cắt (ANC)=P<>A.AN cắt (AMB) tại Q<>A.BQ căt AM=K;CP cắt AN=L. Chứng minh KL//MN
+
+$\boxed{\textbf{Bài 4:}}$ Giải phương trình $x^2-4x+3=\sqrt{x+5}$ và $x^3+x^2-3x-1=2\sqrt{x+2}$ với $-2\leq x\leq 2$
+
+$\boxed{\textbf{Bài 5:}}$ Giải hệ phương trình
+$$\left\{\begin{matrix}  \frac{1}{\sqrt{x}}+\frac{y}{x}=\frac{2\sqrt{x}}{y}+2\\ y(\sqrt{x^2+1}-1)=\sqrt{3x^2+3}
+\end{matrix}\right.$$
+
+$\boxed{\textbf{Bài 6:}}$ Cho phương trình $2019x^2-(m-2020)x-2021=0$ với m là tham số.chứng tỏ phương trình có nghiệm với mọi m và tìm m thỏa mãn $x_1+x_2=\sqrt{x_1^2+2020}-\sqrt{x_2^2+2020}$
+
+$\boxed{\textbf{Bài 7:}}$ Giải phương trình $2x^2-3x\sqrt{5x-4}+5x-4=0$
+
+$\boxed{\textbf{Bài 8:}}$ Giải hệ phương trình
+$$\left\{\begin{matrix}  x(4x+y)(x+4)=6\\ x^2+8x+y=-5
+\end{matrix}\right.$$
+
+$\boxed{\textbf{Bài 9:}}$ Giải hệ phương tình
+$$\left\{\begin{matrix}  (x+y)^2-2xy=5\\ \frac{x^2+y^2}{xy}=\frac{5}{2}
+\end{matrix}\right.$$
+
+$\boxed{\textbf{Bài 10:}}$ Giải phương trình nghiệm nguyên : $$xy^2+y^2-x^2+xy-2x+y=0$$
+
+$\boxed{\textbf{Bài 11:}}$ Giải phương trình nghiệm nguyên : 
+$$xy^2-xy-2x^2+5x=4$$
+
+$\boxed{\textbf{Bài 12:}}$ Cho các số thực dương a,b,c thỏa mãn $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}\leq 3$. Tìm Max của
+$$Q=\sum \frac{1}{\sqrt{a^2-ab+3b^2+1}}$$
+
+$\boxed{\textbf{Bài 13:}}$ Cho a,b,c là các số thực dương. CMR
+$$\frac{a^2}{b}+\frac{b^2}{c}+\frac{c^2}{a}\geq 3\sqrt[4]{\frac{a^4+b^4+c^4}{3}}$$
+\end{document}
