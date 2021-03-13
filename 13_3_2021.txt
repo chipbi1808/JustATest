@@ -1,0 +1,60 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{13/3/2021}
+
+\begin{document}
+
+\maketitle
+$\boxed{\textbf{Bài 1:}}$ Từ một điểm A nằm ngoài đường tròn $(\mathrm{O} ; \mathrm{R})$ vẽ hai tiếp tuyến AB, AC với đường tròn (B, C là tiếp điểm). Trên cung nhỏ BC lấy một điểm M (M khác B, M khác C ), từ M kẻ MI, MK, MP lần lượt vuông góc với $\mathrm{AB}, \mathrm{AC}, \mathrm{BC}(I \in A B, K \in A C, P \in B C)$.\\
+1. Chứng minh rằng: $\widehat{M P K}=\widehat{M B C}$\\
+2. Chứng minh rằng : Tam giác MIP đồng dạng với tam giác MPK.\\
+3. Xác định vị trí của điểm M trên cung nhỏ BC để tích MI.MK.MP đạt giá trị lớn nhất.
+
+$\boxed{\textbf{Bài 2:}}$ Cho tam giác ABC nội tiếp đường tròn (O). Tia phân giác của góc A cắt đường tròn (O) tại D. Chứng minh rằng $A B+A C<2 A D$.
+
+$\boxed{\textbf{Bài 3:}}$ Cho tam giác nhọn $A B C$ có trực tâm $H$ và nội tiếp đường tròn $(O)$. Gọi $P$ là điểm nằm trên đường tròn ngoại tiếp tam giác $H B C$ và nằm trong tam giác $A B C,(P \neq B, C, H)$. Gọi $M$ là giao điểm của đường thẳng $P B$ với đường tròn $(O),(M \neq B)$; $N$ là giao điểm của đường thẳng $P C$ với $(O),(N \neq C)$. Đường thẳng $B M$ cắt $A C$ tại $E,$ đường thẳng $C N$ căt $A B$ tại $F$. Đường tròn ngoại tiếp tam giác $A M E$ và đường tròn ngoại tiếp tam giác $A N F$ cắt nhau tại $Q,(Q \neq A)$\\
+1. Chứng minh tứ giác $A E P F$ nội tiếp.\\
+2. Chứng minh $M, N, Q$ thẳng hàng.\\
+3. Trong trường hợp $A P$ là phân giác của $\widehat{M A N}$, chứng minh $P Q$ đi qua trung điểm của đoạn thẳn $B C$
+
+$\boxed{\textbf{Bài 4:}}$ Giải phương trình sau
+$x^4+2x^3+2x^2-2x+1=(x^3+x)\sqrt{\frac{1-x^2}{x}}$
+
+$\boxed{\textbf{Bài 5:}}$ \\
+1. Giải phương trình $x+\sqrt{4-x^2}=2+x\sqrt{4-x^2}$\\
+2. Giải hệ phương trình $\left\{\begin{matrix}  2y(x^2-y^2)=3x\\ x(x^2+y^2)=10y
+\end{matrix}\right.$
+
+$\boxed{\textbf{Bài 6:}}$ Cho phương trình bậc 2 $x^2-2mx+m^2-4m+1=0$(1) với m là tham số.\\
+1. Tìm điều kiện của tham số m để phương trình (1) có 2 nghiệm phân biệt\\
+2. Tìm m thỏa mãn $\sqrt{x_1(3x_2+5x_1)+x_2(3x_1+5x_2)}=5$
+
+$\boxed{\textbf{Bài 7:}}$ Giải phương trình
+$\sqrt{2x^2+5x+12}+\sqrt{2x^2+3x+2}=x+5$
+
+$\boxed{\textbf{Bài 8:}}$ Giải hệ phương trình
+$$\left\{\begin{matrix}  x^2-4x+2y=0\\ (2x-y^2)^2+4-2y=0
+\end{matrix}\right.$$
+
+$\boxed{\textbf{Bài 9:}}$ Giải hệ phương trình 
+$$\left\{\begin{matrix}  4x^2y-xy^2=5\\ 64x^3-y^3=61
+\end{matrix}\right.$$
+
+$\boxed{\textbf{Bài 10:}}$ Tìm x,y nguyên dương thỏa mãn $x^2y^2-16xy+99=9x^2+36y^2+13x+26y$
+
+$\boxed{\textbf{Bài 11:}}$ Tìm các số nguyên x,y thỏa mãn $\sqrt{9x^2+16x+96}+16y=2x-24$
+
+$\boxed{\textbf{Bài 12:}}$ \\
+1.Cho các số thực a,b. Chứng minh rằng $$\frac{a^2+b^2}{2}\geq ab+\frac{(a-b)^2}{a^2+b^2+2}$$
+2.Cho các số thực dương a, b thỏa mãn điều kiện $a+b\leq 3$.Tìm min của $Q=b-a+\frac{20}{a}+\frac{7}{b}$
+
+$\boxed{\textbf{Bài 13:}}$ Với a,b là những số thực dương thỏa mãn $2\leq 2a+3b\leq 5;8a+12b\leq 2a^2+3b^2+5ab+10$. Chứng minh rằng $3a^2+8b^2+10ab\leq 21$
+
+
+\end{document}
