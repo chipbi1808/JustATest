@@ -48,7 +48,7 @@ $\boxed{\textbf{Bài 10:}}$ Tìm tất cả các số tự nhiên n sao cho $\fr
 $\boxed{\textbf{Bài 11:}}$ Tìm tất cả các số nguyên dương (x,y) thỏa mãn $  3^x-y^3=1$
 
 $\boxed{\textbf{Bài 12:}}$ Cho các số thực dương x,y,z thỏa mãn $\sum_{cyc} \frac{1}{x+y}\geq 2020$. Tìm min của
-$$P=\sum_{cyc} \frac{y^2+2x^2}{xy}$$
+$$P=\sum_{cyc} \frac{\sqrt{y^2+2x^2}}{xy}$$
 
 $\boxed{\textbf{Bài 13:}}$ Cho các số thực dương a,b,c thỏa mãn $abc=8$. Chứng minh rằng
 $$\sum_{cyc} \frac{a}{ac+4}\leq \frac{1}{16}(a^2+b^2+c^2)$$
