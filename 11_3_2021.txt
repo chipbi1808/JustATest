@@ -30,7 +30,7 @@ $\boxed{\textbf{Bài 5:}}$
 2.Giải hệ phương trình $$\left\{\begin{matrix}  2\sqrt{2x+y}=3-2x-y\\ \sqrt[3]{x+6}+\sqrt{1-x}=4
 \end{matrix}\right.$$
 
-$\boxed{\textbf{Bài 6:}}$ Cho phương trình $2x^2-3x+2m=0$. Tìm m để phương trình có 2 nghiệm phân biệt $x_1;x_2$ khác 0 thỏa mãn $|\frac{1}{x}-\frac{1}{y}|=1$
+$\boxed{\textbf{Bài 6:}}$ Cho phương trình $2x^2-3x+2m=0$. Tìm m để phương trình có 2 nghiệm phân biệt $x_1;x_2$ khác 0 thỏa mãn $|\frac{1}{x_1}-\frac{1}{x_2}|=1$
 
 $\boxed{\textbf{Bài 7:}}$ Giải phương trình 
 $$5\sqrt{x^3+1}=2(x^2+2)$$
