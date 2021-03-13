@@ -31,7 +31,7 @@ $\boxed{\textbf{Bài 5:}}$ \\
 2. Giải hệ phương trình $\left\{\begin{matrix}  2y(x^2-y^2)=3x\\ x(x^2+y^2)=10y
 \end{matrix}\right.$
 
-$\boxed{\textbf{Bài 6:}}$ Cho phương trình bậc 2 $x^2-2mx+m^2-4m+1=0$(1) với m là tham số.\\
+$\boxed{\textbf{Bài 6:}}$ Cho phương trình bậc hai $x^2-2mx+m^2-4m+1=0$(1) với m là tham số.\\
 1. Tìm điều kiện của tham số m để phương trình (1) có 2 nghiệm phân biệt\\
 2. Tìm m thỏa mãn $\sqrt{x_1(3x_2+5x_1)+x_2(3x_1+5x_2)}=5$
 
