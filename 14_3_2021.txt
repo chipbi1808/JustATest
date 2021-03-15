@@ -1,0 +1,65 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{14/3/2021}
+
+\begin{document}
+
+\maketitle
+$\boxed{\textbf{Bài 1:}}$ Cho tam giác nhọn $A B C$ có trực tâm $H$ và nội tiếp đường tròn $(O)$. Gọi $P$ là điểm nằm trên đường tròn ngoại tiếp tam giác $H B C$ và nằm trong tam giác $A B C,(P \neq B, C, H)$. Goi $M$ là giao điểm của đường thẳng $P B$ với đường tròn $(O),(M \neq B) ;$ N là giao điểm của đường thẳng $P C$ với $(O),(N \neq C)$. Đường thẳng $B M$ cắt $A C$ tại $E,$ đường thẳng $C N$ cắt $A B$ tại $F$. Đường tròn ngoại tiếp tam giác $A M E$ và đường tròn ngoại tiếp tam giác $A N F$ cắt nhau tai $Q,(Q \neq A)$\\
+1. Chứng minh tứ giác $A E P F$ nội tiếp.\\
+2. Chứng minh $M, N, Q$ thẳng hàng.\\
+3. Trong trường hợp $A P$ là phân giác của $\widehat{M A N}$, chứng minh $P Q$ đi qua trung điểm của đoạn thẳng $B C$
+
+$\boxed{\textbf{Bài 2:}}$\\
+1. Cho tam giác $A B C$ cân tai $A$ (với $\widehat{B A C}<60^{\circ}$ ) nội tiếp đường tròn $(O)$. Gọi $M$ là điểm bất kì trên cung nhỏ $\widehat{B C}$. Chứng minh rằng $M A>M B+M C$.\\
+2. Cho tam giác ABC nhọn $(A B<A C)$ nội tiếp trong đường tròn tâm O. Goi D là trung điểm cạnh $\mathrm{BC}$ và E, F tương ứmg là hình chiếu vuông góc của $\mathrm{D}$ lên $\mathrm{AC}$ và AB. Đường thẳng EF cắt các đường thẳng $\mathrm{AO}$ và $\mathrm{BC}$ theo thứ tự tại $\mathrm{M}$ và $\mathrm{N}$.\\
+(a) Chứng minh tứ giác AMDN nội tiếp.\\
+(b) Goi $\mathrm{K}$ là giao điểm của $\mathrm{AB}$ và $\mathrm{ED}, \mathrm{L}$ là giao điểm của $\mathrm{AC}$ và $\mathrm{FD}, \mathrm{H}$ là trung điểm của $\mathrm{KL}$ và I là tâm đường tròn ngoại tiếp tam giác AEF. Chứng minh $H I \perp E F$.
+
+$\boxed{\textbf{Bài 3:}}$ Cho đường tròn tâm $O$ đường kính
+$A B$. Vẽ đường tròn tâm $A$ cắt đường tròn $(O)$ tại hai điểm phân biệt $C, D .$ Trên đường tròn $(O),$ lấy điểm $M$ nằm trên cung nhỏ $A C$ với $M \neq A, M \neq C$. Đoạn thẳng $B M$ cắt đường tròn $(A)$ tại điểm $N$. Chứng minh :\\
+1. $\widehat{C M B}=\widehat{D M B}$\\
+2. $M N^{2}=M C . M D$
+
+$\boxed{\textbf{Bài 4:}}$ Giải phương trình $\sqrt[3]{x+6}+x^2=7-\sqrt{x-1}$ 
+
+$\boxed{\textbf{Bài 5:}}$ Giải hệ phương trình 
+$$\left\{\begin{matrix} \frac{5(x+y)}{x+y+6xy}+\frac{6(x+z)}{x+z+5xz}=4\\ \frac{6(z+y)}{z+y+4yz}+\frac{4(x+y)}{x+y+6xy}=5\\
+\frac{4(x+z)}{x+z+5xz}+\frac{5(y+z)}{y+z+4yz}=6
+\end{matrix}\right.$$
+
+$\boxed{\textbf{Bài 6:}}$ Giải hệ phương trình 
+$$\left\{\begin{matrix}  x^2+y^2=4\\ (x+y)(16-x^2y^2-4xy)=2y^5
+\end{matrix}\right.$$
+
+$\boxed{\textbf{Bài 7:}}$ Giải hệ phương trình
+$$\left\{\begin{matrix}  x(x^2-2)+x^2y+4=2(x^2+y)\\ x^2-y+2=0
+\end{matrix}\right.$$
+
+$\boxed{\textbf{Bài 8:}}$ Cho phương trình ẩn x là $x^2-px+q=0$ (1) với p,q là các số nguyên tố. Tìm các giá trị của p, q biết phương trình (1) có nghiệm là các số nguyên dương
+
+$\boxed{\textbf{Bài 9:}}$ Giải phương trình $$2(x-2)\sqrt{x+2}=-x^2+3x+3$$
+
+$\boxed{\textbf{Bài 10:}}$ Giải phương trình 
+$$5x^2-2x+3-(2x-1)\sqrt{5x^2+2x-1}=0$$
+
+$\boxed{\textbf{Bài 11:}}$ Tìm các số nguyên x,y thỏa mãn 
+$$x^3+y^2=xy^2+1$$
+
+$\boxed{\textbf{Bài 12:}}$\\
+1.Tìm tất cả các số nguyên dương x,y và số nguyên tố p thỏa mãn $p^x-y^4=4$\\
+2.Chứng minh rằng m, n là hai số tự nhiên thỏa mãn $2m^2+m=3n^2+n$. Chứng minh $2m+2n+1$ là số chính phương
+
+$\boxed{\textbf{Bài 13:}}$ Cho a, b, c là các số thực dương thỏa mãn $\frac{4}{5}b\geq a-c\geq \frac{3}{5}b$. Tìm giá trị lớn nhất của biểu thức
+$$P=\frac{12(a-b)}{c}+\frac{12(b-c)}{a}+\frac{25(c-a)}{b}$$
+
+$\boxed{\textbf{Bài 14:}}$ Cho x,y,z là các số thực dương thỏa mãn $\frac{1}{x}+\frac{1}{y}=\frac{1}{z}$. Chứng minh rằng 
+$$\frac{x^2+y^2}{z^2}+\frac{z}{x+y}\geq \frac{33}{4}$$
+
+\end{document}
