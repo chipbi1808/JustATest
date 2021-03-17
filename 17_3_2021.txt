@@ -27,7 +27,7 @@ $\boxed{\textbf{Bài 3:}}$ Cho hai đường tròn $(O)$ và $\left(O^{\prime}\r
 2. Goi $\mathrm{M}$ là điểm di chuyển từ điềm A, ngược chiều kim đồng hồ trên đường tròn $(\mathrm{O}) ; \mathrm{N}$ là điềm di chuyển từ điểm A, cùng chiều kim đồng hồ trên đường tròn $\left(O^{\prime}\right)$ sao cho $\widehat{A O M}$ luôn bằng $\widehat{A O^{\prime} N}$. Chứng minh đường trung trực của MN luôn đi qua một điểm cố định.\\
 
 $\boxed{\textbf{Bài 4:}}$ \\
-1.Giải phương trình $\sqrt{x}+2\sqrt{y-1}+3\sqrt{z-2}=\frac{1}{2}(x+y+z+1)$\\
+1.Giải phương trình $\sqrt{x}+2\sqrt{y-1}+3\sqrt{z-2}=\frac{1}{2}(x+y+z+11)$\\
 2.Giải hệ phương trình 
 $$\left\{\begin{matrix}  x^2+2x=\frac{121}{9}-27^{\frac{x}{2}}\\ x^2+y^2+xy-3x-4y+4=0
 \end{matrix}\right.$$
