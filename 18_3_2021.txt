@@ -1,0 +1,54 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{18/3/2021}
+
+\begin{document}
+
+\maketitle
+$\boxed{\textbf{Bài 1:}}$ Cho tam giác $A B C$ có diện tích bằng $184 \mathrm{~cm}^{2}$. Goi điểm $M$ thuộc cạnh $B C$ sao cho $\frac{M C}{B C}=\frac{2}{7}$, điểm $N$ thuộc cạnh $A C$ sao cho $\frac{N A}{N C}=\frac{3}{5}$. Gọi giao điểm của $A M$ và $B N$ là $I$. Tính diện tích tam giác $A N I$.
+
+$\boxed{\textbf{Bài 2:}}$ Cho tam giác $A B C$ không có góc tù, $A B<A C,$ nội tiếp đường tròn $(O ; R)$. Trong đó $B, C$ cố định trên đường tròn $(O), A$ di động trên cung lớn $B C$. Các tiếp tuyến với $(O)$ tại $B$ và $C$ cắt nhau tại $M$. Từ $M$ kẻ đường thẳng song song với $A B$, đường thẳng này cắt $(O)$ tại $D$ và $E$ (D thuộc cung nhỏ $B C)$, cắt $B C$ tại $F$, cắt $A C$ tại $I$.\\
+1. Chứng minh $M B I C$ là tứ giác nội tiếp trong một đường tròn và $F I . F M=F D . F E$.\\
+2. Chứng minh $\widehat{M I O}=90^{\circ}$. Tìm vị trí điểm $A$ trên cung lớn $B C$ sao cho tam giác $I B C$ có diện tích lớn nhất.\\
+3. Đường thẳng $O I$ cắt $(O)$ tại $P$ và $Q$ ( $P$ thuộc cung nhỏ $A B$ ). Đường thẳng $Q F$ cắt $(O)$ tại $T$ khác $Q$ ). Chứng minh ba điểm $P, T, M$ thẳng hàng.
+
+$\boxed{\textbf{Bài 3:}}$ Cho tam giác đều $A B C$ cố định nội tiếp đường tròn (O). Đường thẳng $d$ thay đổi nhưng luôn đi qua $A$ và cắt cung nhỏ $A B$ tại $E$ (E không trùng với hai điểm $A$ và $B$ ). Đường thẳng $d$ cắt hai tiếp tuyến tại $B$ và $C$ của đường tròn $(O)$ lần lượt tại $M$ và $N$. Goi $F$ là giao điểm của $M C$ và $B N$. Chứng minh rằng:\\
+1. $\Delta C A N$ đồng dạng với $\Delta B M A, \Delta M B C$ đồng dạng với $\Delta B C N$.\\
+2. Bốn điểm $B, M, E, F$ cùng nằm trên một đường tròn.\\
+3. Đường thẳng $E F$ luôn đi qua một điểm cố định khi đường thẳng $d$ thay đổi.
+
+$\boxed{\textbf{Bài 4:}}$\\
+1/ Giải hệ phương trình $\left\{\begin{array}{l}x^{2}+y^{2}+z^{2}=2010^{2} \\ x^{3}+y^{3}+z^{3}=2010^{3}\end{array}\right.$\\
+2/ Giải phương trình $\sqrt{3x^2+2x^2+2}+\sqrt{-3x^3+x^2+2x-1}=2x^2+2x+2$
+
+$\boxed{\textbf{Bài 5:}}$ Giải phương trình $24 x^{2}-60 x+36-\frac{1}{\sqrt{5 x-7}}+\frac{1}{\sqrt{x-1}}=0$
+
+$\boxed{\textbf{Bài 6:}}$ Giải hệ phương trình $$\left\{\begin{array}{l}x^{2}-y^{2}-5 x-y+6= 0\\ \sqrt{x-\sqrt{y}-2}+2 y=2 x\end{array}\right.$$
+
+$\boxed{\textbf{Bài 7:}}$ Giải hệ phương trình $$\left\{\begin{array}{l}x^{3}+x^{2}+y^{2}-x^{2} y-x y-y=0 \\ \sqrt{x}+\sqrt{y-1}=\sqrt{2 y-3 x-4}\end{array}\right.$$
+
+$\boxed{\textbf{Bài 8:}}$ Cho phương trình: $x^{2}-2 m x-m^{2}+2 m-1=0$ (m là tham số). Tìm tất cả các giá trị của tham số $m$ để phương trình có hai nghiệm $x_{1}, x_{2}$ thỏa mãn $x_{1}<x_{2}$ và $\left|x_{1}\right|-\left|x_{2}\right|=8$.
+
+$\boxed{\textbf{Bài 10:}}$ Giải phương trình $x^{2}+2 \sqrt{x-1}-2 x \sqrt{2-x}+1=0$
+
+$\boxed{\textbf{Bài 11:}}$ Giải phương trình $(3x+2)\left(\sqrt{x^{2}+1}-1\right)=x^{2}$.
+
+$\boxed{\textbf{Bài 12:}}$ Tim các nghiệm nguyên của phương trình $x^{2}-xy+y^{2}-4=0 .$
+
+$\boxed{\textbf{Bài 13:}}$ Tìm tất cả các cặp số nguyên $(x ; y)$ thỏa mãn: $x(x+y)^{2}-y+1=0.$
+
+$\boxed{\textbf{Bài 14:}}$ Chứng minh với $a,b,c>0$. Chứng minh rằng 
+$$\frac{a^2}{3a+1}+\frac{b^2}{3b+1}+\frac{c^2}{3c+1}\geq 24(\frac{a^2}{9a+1}+\frac{b^2}{9b+1}+\frac{c^2}{9c+1})^2$$
+
+$\boxed{\textbf{Bài 15:}}$ Cho $x,y,z>0$ và $xyz+x+z=y$. Tìm giá trị lớn nhất của biểu thức 
+$$P=\frac{2}{x^2+1}-\frac{2}{y^2+1}-\frac{4z}{\sqrt{z^2+1}}+\frac{3z}{(z^2+1)\sqrt{z^2+1}}$$
+
+
+
+\end{document}
