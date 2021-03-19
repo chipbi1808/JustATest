@@ -43,7 +43,7 @@ $\boxed{\textbf{Bài 12:}}$ Tim các nghiệm nguyên của phương trình $x^{
 
 $\boxed{\textbf{Bài 13:}}$ Tìm tất cả các cặp số nguyên $(x ; y)$ thỏa mãn: $x(x+y)^{2}-y+1=0.$
 
-$\boxed{\textbf{Bài 14:}}$ Chứng minh với $a,b,c>0$. Chứng minh rằng 
+$\boxed{\textbf{Bài 14:}}$ Chứng minh với $a,b,c>0$ và $a+b+c=1$. Chứng minh rằng 
 $$\frac{a^2}{3a+1}+\frac{b^2}{3b+1}+\frac{c^2}{3c+1}\geq 24(\frac{a^2}{9a+1}+\frac{b^2}{9b+1}+\frac{c^2}{9c+1})^2$$
 
 $\boxed{\textbf{Bài 15:}}$ Cho $x,y,z>0$ và $xyz+x+z=y$. Tìm giá trị lớn nhất của biểu thức 
