@@ -38,7 +38,7 @@ $\boxed{\textbf{Bài 6:}}$ Giải hệ phương trình
 $$\left\{\begin{array}{l}x^{2}-2 y^{2}+x y+x-y=0 \\ x^{2}+y^{2}=10\end{array}\right.$$
 
 $\boxed{\textbf{Bài 7:}}$ Giải hệ phương trình 
-$$\left\{\begin{array}{l}x^{2}+y^{2}+x y+x=5 \\ x^{2} y+x y^{2}+y^{2}+5 x+x y+5 y\end{array}\right.$$
+$$\left\{\begin{array}{l}x^{2}+y^{2}+x y+x=5 \\ x^{2} y+x y^{2}+y^{2}+5 x+x y+5 y=2\end{array}\right.$$
 
 $\boxed{\textbf{Bài 8:}}$ Cho phương trình $x^{2}+m x+n=0$ trong đó $m^{2}+n^{2}=2020 .$ Chứng minh nếu phương trình có nghiệm $x_{0}$ thì $\left|x_{0}\right|<\sqrt{2021}$.
 
