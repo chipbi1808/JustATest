@@ -1,0 +1,63 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{20/3/2021}
+
+\begin{document}
+
+\maketitle
+
+$\boxed{\textbf{Bài 1:}}$ Cho tam giác $A B C$ vuông ở $A$, đường cao $A H$. Gọi $D$ và $E$ lần lượt là hình chiếu vuông góc của điểm $H$ trên cạnh $A B$ và $A C$. Biết $B H=4(\mathrm{~cm})$, $H C=9(\mathrm{~cm})$\\
+1. Tính độ dài đoạn thẳng $D E$.\\
+2. Các đường thẳng vuông góc với $D E$ tại $D$ và $E$ cắt cạnh $B C$ lần lượt tại $M$ và $N$. Tính diện tích tứ giác $D E N M$.
+
+$\boxed{\textbf{Bài 2:}}$ Cho tam giác $A B C$ nhọn $(A B<A C)$ và nội tiếp trong đường tròn $(O)$. Gọi $D$ là điểm đối xứng của $B$ qua $O$. Gọi $H, K$ lần lượt là hình chiếu vuông góc của điểm $B$ lên $A C$ và $A O,$ với $K$ khác $O$ và thuộc đoạn thẳng $A O$. Gọi $M$ là giao điểm của đường thẳng $H K$ và $B C$.\\
+1. Chứng minh bốn điểm $A, B, H, K$ cùng thuộc một đường tròn\\.
+2. Chứng minh tam giác $M H B$ cân.\\
+3. Chứng minh $M$ là trung điểm của $B C$.\\
+4. Cho điểm $E$ nằm bên ngoài đường tròn $(O)$ và một đường thẳng $d$ thay đổi nhưng luôn đi qua $E$, đồng thời cắt $(O)$ tại hai điểm phân biệt $P, Q$. Giả sử bán kính đường tròn $(O)$ bằng $a$. Tính diện tích lớn nhất của tam giác $O P Q$ theo $a$.
+
+$\boxed{\textbf{Bài 3:}}$ Cho $B C$ là một dây cung của đường tròn $(O ; R)(B C \neq 2 R)$ Điểm $A$ di chuyển trên cung lớn $B C$ sao cho tâm $O$ luôn nằm trong $\Delta A B C$. Các đường cao $A D, B E, C F$ của tam giác $\Delta A B C$ đồng quy tại $H$.\\
+1. Chứng minh $\Delta A E F$ đồng dạng với $\Delta A B C$.\\
+2. Gọi $A^{\prime}, A_{1}$ lần lượt là trung điểm của $B C, E F$. Chứng minh rằng $A H=2 O A^{\prime}$ và $R . A A_{1}=A A^{\prime} . O A^{\prime}$.\\
+3. Chứng minh $R$. $(E F+F D+D E)=2 S_{\Delta A B C},$ từ đó suy ra vị trí của điểm $A$ để tổng $E F+F D+D E$ đạt giá trị lớn nhất.\\
+
+$\boxed{\textbf{Bài 4:}}$ Giải hệ phương trình 
+$$\left\{\begin{array}{l}x^{4}+x^{3} y+9 y=y^{3} x+x^{2} y^{2}+9 x \\ x\left(y^{3}-x^{3}\right)=7\end{array}\right.$$
+
+$\boxed{\textbf{Bài 5:}}$ Giải hệ phương trình 
+$$\left\{\begin{array}{l}2 y^{3}+2 x \sqrt{1-x}=3 \sqrt{1-x}-y \\ y=2 x^{2}-1+2 x y \sqrt{1+x}\end{array}\right.$$
+
+$\boxed{\textbf{Bài 6:}}$ Giải hệ phương trình 
+$$\left\{\begin{array}{l}x y-3 y=4 x^{2}+3 x+3 \\ y^{2}+4 y+18=7 x^{2}+16 x\end{array}\right.$$
+
+$\boxed{\textbf{Bài 7:}}$ Giải hệ phương trình $$\left\{\begin{array}{l}x^{2}+y^{2}=13 \\ x+x y+y=11\end{array}\right.$$
+
+$\boxed{\textbf{Bài 8:}}$ Cho phương trình $x^{2}-2 m x+2 m-1=0$. Tìm m để phương trình có hai nghiệm phân biệt $x_{1}, x_{2},\left(x_{1}<x_{2}\right)$ thỏa mãn $4 x_{1}=x_{2}^{2}$.
+
+$\boxed{\textbf{Bài 9:}}$\\
+1. Giải phương trình $\sqrt{x^{2}+12}+5=3 x+\sqrt{x^{2}+5}$.\\
+2. Cho phương trình: $x^{2}-(m-1) x-m^{2}+m-2=0$
+(1) (với m là tham số). Goi $x_{1}, x_{2}$ là hai nghiệm của phương trình (1), tìm m để $Q=\left(\frac{x_{1}}{x_{2}}\right)^{3}+\left(\frac{x_{2}}{x_{1}}\right)^{3}$ đạt giá trị lớn nhất.
+
+$\boxed{\textbf{Bài 10:}}$ Giải phương trình 
+$$1+\frac{1}{\sqrt{x^{2}-1}}=\frac{35}{12 x}$$.
+
+$\boxed{\textbf{Bài 11:}}$ Tìm tất cả các số nguyên $n$ sao cho $n^{2}+2022$ là số chính phương.
+
+$\boxed{\textbf{Bài 12:}}$\\
+1. Tìm tất cả các số nguyên dương $n$ sao cho $n^{2}-n-5$ là số chính phương.\\
+2. Ta nhận thấy số 2025 thỏa mãn tính chất rất đẹp: $2025=(20+25)^{2}$. Tìm tất cả các số tự nhiên có bốn chữ số $\overline{a b c d}$ cũng thỏa mãn tính chất trên, nghĩa là $\overline{a b c d}=(\overline{a b}+\overline{c d})^{2}$.
+
+$\boxed{\textbf{Bài 13:}}$ Cho các số thực dương $a,b,c$ sao cho $a^2+b^2+c^2=3$. Chứng minh rằng
+$$\frac{a}{b}+\frac{b}{c}+\frac{c}{a}\geq \frac{9}{a+b+c}$$
+
+$\boxed{\textbf{Bài 14:}}$ Cho các số thực dương $a,b,c$ sao cho $a^4+b^4+c^4=3$. Chứng minh rằng\\
+a) $$\frac{a^2}{b}+\frac{b^2}{c}+\frac{c^2}{a}\geq 3$$
+b) $$\frac{a^2}{b+c}+\frac{b^2}{a+c}+\frac{c^2}{a+b}\geq \frac{3}{2}$$
+\end{document}
