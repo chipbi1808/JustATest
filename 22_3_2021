@@ -1,0 +1,60 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{22/3/2021}
+
+\begin{document}
+
+\maketitle
+
+\textbf{Bài 1:} Cho tam giác $ABC$ nội tiếp đường tròn $(O)$ cố định, $B, C$ cố định, $A$ di chuyển trên $(O)$. $D$ thuộc đoạn $BC$ sao cho $AD$ là phân giác $\angle BAC$. Đường tròn $(K)$ qua $A$ và tiếp xúc với $BC$ tại $D$.\\
+1) Chứng minh rằng $(K)$ tiếp xúc $(O)$.\\
+2) Gọi $(K)$ giao $CA, AB$ lần lượt tại $E, F$ khác $A$. $BE, CF$ lần lượt cắt $(K)$ tại $G, H$ khác $E, F$. $AG, AH$ cắt $BC$ lần lượt tại $M, N$. Chứng minh rằng độ dài $MN$ luôn không đổi khi $A$ di chuyển.
+
+\textbf{Bài 2:} Cho tam giác $ABC$ nội tiếp đường tròn $(O)$. $P$ là một điểm nằm trong tam giác $ABC$. Trung trực $CA, AB$ lần lượt cắt $PA$ tại $E, F$. Đường thẳng qua $E$ song song $AC$ cắt tiếp tuyến tại $C$ của $(O)$ tại $M$. Đường thẳng qua $F$ song song $AB$ cắt tiếp tuyến tại $B$ của $(O)$ tại $N$.\\
+1) Chứng minh rằng $MN$ tiếp xúc $(O)$.\\
+2) Gọi $MN$ cắt dường tròn ngoại tiếp các tam giác $ACM, ABN$ lần lượt tại $Q,R$ khác $M, N$. Chứng minh rằng $BQ$ và $CR$ cắt nhau trên $(O)$.
+
+\textbf{Bài 3:} Cho tam giác $ABC$, đường tròn nội tiếp $(I)$ tiếp xúc $BC, CA, AB$ lần lượt tại $D, E, F$. Gọi $K, L$ lần lượt là hình chiếu của $A$ trên $DE, DF$. Gọi $IA$ giao $EF$ tại $M$.\\
+1) Chứng minh rằng $M$ là trực tâm tam giác $DKL$.\\
+2) Gọi $P$ đối xứng $E$ qua $K$. $Q$ đối xứng $F$ qua $L$. Chứng minh rằng $QE, PF$ cắt nhau trên đường tròn $(I)$.
+
+\textbf{Bài 4:} Giải hệ phương trình
+$$\left\{\begin{matrix}  x^3-y^3=35\\ 2x^2+3y^2=4x-9y
+\end{matrix}\right.$$
+
+\textbf{Bài 5:} Giải phương trình
+$$2\sqrt[3]{2x-1}=27x^3-27x^2+13x-2$$
+
+\textbf{Bài 6:} Giải hệ phương trình
+$$\left\{\begin{matrix}  x+\sqrt{x+1}=2y+\sqrt{2y}-1\\ x^2+y^2=34
+\end{matrix}\right.$$
+
+\textbf{Bài 7:} Giải hệ phương trình
+$$\left\{\begin{matrix}  x-y\sqrt{2-x}+2y^2=2\\ 2(\sqrt{x+2}-4y)+8\sqrt{y(xy+2y)}=34-15x
+\end{matrix}\right.$$
+
+\textbf{Bài 8:} Giải phương trình 
+$$x^2+3-(x+3)\sqrt{x^2+3}+2(x+1)=0$$
+
+\textbf{Bài 9:} Cho phương trình $x^2-2(m-1)x+2m-5=0$. Tìm m thỏa mãn $(x_1^2-2mx_1+2m-1)(x_2-2)\leq 0$
+
+\textbf{Bài 10:} Giải phương trình 
+$$3(x^3+\frac{1}{x})=7x^2+4x+7$$
+
+\textbf{Bài 11:} Giải phương trình
+$$\frac{x^2+x}{\sqrt{x^2+x+10}}+2=\sqrt{x^2+x+4}$$
+
+\textbf{Bài 12:} Tìm tất cả các số nguyên tố p sao cho $2p^2+3p+4$ cũng là số nguyên tố
+
+\textbf{Bài 13:} Cho $m,n$ là hai số nguyên dương sao cho $\frac{m^3+n^3+1}{mn(m-n)}$ luôn là số nguyên. Tìm $m,n$.
+
+\textbf{Bài 14:} Cho a, b, c > 0; ab + bc + ca = 1. Chứng minh rằng:
+$$\sum \frac{1-a^{2}}{1+a^{2}}\leq \sum \frac{a}{\sqrt{1+a^{2}}}$$
+\end{document}
+
