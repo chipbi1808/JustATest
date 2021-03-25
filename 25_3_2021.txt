@@ -1,0 +1,62 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{22/3/2021}
+
+\begin{document}
+
+\maketitle
+
+\textbf{Bài 1:} Cho tam giác nhọn $A B C$ với $(A B<A C)$ nội tiếp đường tròn $(O)$. Ba đường cao $A D, B E, C F$ cắt nhau tại trực tâm $H$.\\
+1. Chứng minh rằng các tứ giác $B F H D ; A B D E$ nội tiếp và $H$ là tâm đường tròn nội tiếp tam giác $D E F$\\
+2. Goi $M$ là trung điểm của $B C$. Chứng minh tứ giác $D F E M$ nội tiếp.\\
+3. Tia $M H$ cắt đường tròn $(O)$ tại $I$. Chứng minh rằng các đường thẳng $A I, E F, B C$ đồng quy.
+
+\textbf{Bài 2:} Cho đường tròn $(O ; R)$ đường kính AB. Trên tia tiếp tuyến Ax của $(\mathrm{O} ; \mathrm{R})$ lấy điểm $\mathrm{C}$ khác A. Kẻ tiếp tuyến $\mathrm{CD}(\mathrm{D}$ là tiếp điểm, $\mathrm{D}$ khác $\mathrm{A}$ ).\\
+1. Chứng minh tứ giác $O A C D$ nôi tiếp.\\
+2. Đường thẳng vuông góc với AB tại $\mathrm{O}$ cắt tia $\mathrm{BD}$ tại E. Chứng minh: $B D \cdot B E=2 R^{2}$\\
+3. Gọi $F$ là trung điểm của cạnh $O E$. Chứng minh ba điểm $B, F, C$ thẳng hàng.
+
+\textbf{Bài 3:} Cho đường tròn (O) có ABlà đường kính. Vẽ đường kính $C D$ không trùng với $A B$.Tiếp tuyến tại $A$ của đường tròn $(O)$ cắt các đường thẳng $B C$ và $B D$ lầ lươt tại $E$ và $\mathrm{F}$. Goi $Q$ là trung điềm của đoạn thẳng $A F$.\\
+1. Chứng minh: $E B . E C+F B \cdot F D=E A^{2}+F A^{2}$. là hình chữ nhật.\\
+2. Chứng minh: $Q O$ song song $B F$ và $\Delta B Q C$ là tam giác cân.\\
+3. Chứng minh: $E B . E C+F B . F D \geq 2 C D^{2}$.
+
+\textbf{Bài 4:} Giải hệ phương trình
+$$\left\{\begin{matrix}  \frac{1}{x}+\frac{1}{2y}=2(x^2+y^2)\\ \frac{1}{x}-\frac{1}{2y}=y^2-x^2
+\end{matrix}\right.$$
+
+\textbf{Bài 5:} Giải hệ phương trình
+$$\left\{\begin{matrix}  x^3=3x-12y+50\\ y^3=12y+3z-2\\ z^3=27x+27z
+\end{matrix}\right.$$
+
+\textbf{Bài 6:} Giải hệ phuoong trình:
+$\left\{\begin{array}{c}x+y-z=5 \\ \frac{1}{x}+\frac{1}{y}+\frac{1}{z}=3 \\ 8 x^{2}+5 z=4\end{array}\right.$
+
+\textbf{Bài 7:} Giải hệ phương trình. $\left\{\begin{array}{c}(x+y)^{2}-(x+y) \sqrt{3}-x y=-1 \\ x^{2}+y^{2}+x+2 y=\sqrt{3}+\frac{2}{2}\end{array}\right.$
+
+\textbf{Bài 8:} Giải phương trình: $\sqrt{x-3}+\sqrt{5-x}=x^{2}-8x+18$
+
+\textbf{Bài 9:} Giải phương trình :
+$\sqrt{x^2 + 10x + 21} = 3\sqrt{x + 3} + 2\sqrt{x + 7} - 6$
+
+\textbf{Bài 10:} Cho ba số thực dương phân biệt $a, b, c$ thỏa $a+b+c=3$. Xét ba phương trình bậc hai
+$4 x^{2}+4 a x+b=0,4 x^{2}+4 b x+c=0,4 x^{2}+4 c x+a=0$. Chứng minh rằng trong ba phương trình
+trên có ít nhất một phương trình có nghiệm và có ít nhất một phương trình vô nghiệm.
+
+\textbf{Bài 11:} Tìm tất cả các bộ số nguyên dương $(a, b)$ thỏa mãn $\operatorname{max} b^{2}+3 a: a^{2} b$
+
+\textbf{Bài 12:} Chứng minh rằng không tồn tại số nguyên $n$ thỏa mãn $\left(2020^{2020}+1\right) \vdots\left(n^{3}+2018 n\right)$.
+
+\textbf{Bài 13:} Cho $a,b,c$ là các số thực dương thỏa mãn $a+b+c=1$. Chứng minh rằng
+$$7(ab+bc+ac)\leq 2+9abc$$
+
+\textbf{Bài 14:} Cho $x,y,z>0$. Chứng minh rằng 
+$$\frac{x^3}{y^3}+\frac{x^3}{z^3}+\frac{y^3}{z^3}+\frac{y^3}{x^3}+\frac{z^3}{x^3}+\frac{z^3}{y^3}\geq \frac{x^2}{yz}+\frac{y^2}{xz}+\frac{z^2}{xy}+\frac{yz}{x^2}+\frac{xz}{y^2}+\frac{xy}{z^2}$$
+
+\end{document}
