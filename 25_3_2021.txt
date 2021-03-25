@@ -12,20 +12,21 @@
 
 \maketitle
 
-\textbf{Bài 1:} Cho tam giác nhọn $A B C$ với $(A B<A C)$ nội tiếp đường tròn $(O)$. Ba đường cao $A D, B E, C F$ cắt nhau tại trực tâm $H$.\\
-1. Chứng minh rằng các tứ giác $B F H D ; A B D E$ nội tiếp và $H$ là tâm đường tròn nội tiếp tam giác $D E F$\\
-2. Goi $M$ là trung điểm của $B C$. Chứng minh tứ giác $D F E M$ nội tiếp.\\
-3. Tia $M H$ cắt đường tròn $(O)$ tại $I$. Chứng minh rằng các đường thẳng $A I, E F, B C$ đồng quy.
+\textbf{Bài 1:} Cho tam giác $ABC$. Một đường tròn $(K)$ đi qua $B, C$ sao cho $(K)$ cắt đoạn $CA$ tại $E$ khác $C$ và $(K)$ cắt đoạn $AB$ tại $F$ khác $B$. $BE$ giao $CF$ tại $H$. Gọi $M$ là trung điểm $EF$. Gọi $P, Q$ lần lượt là đối xứng của $A$ qua $BE, CF$.\\
+1) Chứng minh rằng đường tròn $(I)$ ngoại tiếp tam giác $HEP$ và đường tròn $(J)$ ngoại tiếp tam giác $HFQ$ cắt nhau trên $AM$.\\
+2) Chứng minh rằng $(I)$ và $(J)$ có bán kinh bằng nhau.
 
-\textbf{Bài 2:} Cho đường tròn $(O ; R)$ đường kính AB. Trên tia tiếp tuyến Ax của $(\mathrm{O} ; \mathrm{R})$ lấy điểm $\mathrm{C}$ khác A. Kẻ tiếp tuyến $\mathrm{CD}(\mathrm{D}$ là tiếp điểm, $\mathrm{D}$ khác $\mathrm{A}$ ).\\
-1. Chứng minh tứ giác $O A C D$ nôi tiếp.\\
-2. Đường thẳng vuông góc với AB tại $\mathrm{O}$ cắt tia $\mathrm{BD}$ tại E. Chứng minh: $B D \cdot B E=2 R^{2}$\\
-3. Gọi $F$ là trung điểm của cạnh $O E$. Chứng minh ba điểm $B, F, C$ thẳng hàng.
+\textbf{Bài 2:} Cho tam giác $ABC$ nhọn nội tiếp đường tròn $(O)$ với $AB<AC$. Gọi $M$ là trung điểm $BC$. $AM$ cắt $(O)$ tại điểm $D$ khác $A$. Đường tròn ngoại tiếp tam giác $MDC$ cắt đường thẳng $AC$ tại $E$ khác $C$. Đường tròn ngoại tiếp tam giác $MDB$ cắt đường thẳng $AB$ tại $F$ khác $B$.\\
+1) Chứng minh rằng hai tam giác $BDF,CDE$ đồng dạng và ba điểm $E,M,F$ thẳng hàng.\\
+2) Chứng minh rằng $OA \perp EF$.\\
+3) Phân giác của góc $\widehat{BAC}$ cắt $EF$ tại điểm $N$. Phân giác của các góc $\widehat{CEN}$ và $\widehat{BFN}$ lần lượt cắt $CN,BN$ tại $P$ và $Q$. Chứng minh rằng $PQ$ song song với $BC$.
 
-\textbf{Bài 3:} Cho đường tròn (O) có ABlà đường kính. Vẽ đường kính $C D$ không trùng với $A B$.Tiếp tuyến tại $A$ của đường tròn $(O)$ cắt các đường thẳng $B C$ và $B D$ lầ lươt tại $E$ và $\mathrm{F}$. Goi $Q$ là trung điềm của đoạn thẳng $A F$.\\
-1. Chứng minh: $E B . E C+F B \cdot F D=E A^{2}+F A^{2}$. là hình chữ nhật.\\
-2. Chứng minh: $Q O$ song song $B F$ và $\Delta B Q C$ là tam giác cân.\\
-3. Chứng minh: $E B . E C+F B . F D \geq 2 C D^{2}$.
+
+\textbf{Bài 3a:} Cho tam giác $ABC$ nhọn không cân có tâm đường tròn nội tiếp $I.$ $AI$ cắt $BC$ tại $D.$ Lấy $E,F$ lần lượt đối xứng $D$ qua $IB$ và $IC.$ $M,N,J$ lần lượt là trung điểm của $DE,DF,EF.$ Đường tròn ngoại tiếp tam giác $AEM$ cắt đường tròn ngoại tiếp tam giác $AFN$ tại $P$ khác $A.$ Chứng minh rằng $A,J,P$ thẳng hàng.
+
+\textbf{Bài 3b:} Cho tam giác $ABC$ nội tiếp $(O)$ có A$AD$ là phân giác trong của tam giác. $AD$ cắt $(O)$ tại điểm thứ $2$ là $E.$ Gọi $M$ là trung điểm của $AD.$ $BM$ cắt $(O)$ tại điểm thứ hai $P$ khác $B.$ $EP$ cắt $AC$ tại điểm thứ hai $N.$
+a) Chứng minh $N$ là trung điểm của $AC.$\\
+b) Gọi $(EMN)$ cắt $BM$ tại $R$ khác $M.$ Chứng minh rằng $RA \perp RC.$\\ 
 
 \textbf{Bài 4:} Giải hệ phương trình
 $$\left\{\begin{matrix}  \frac{1}{x}+\frac{1}{2y}=2(x^2+y^2)\\ \frac{1}{x}-\frac{1}{2y}=y^2-x^2
@@ -49,7 +50,7 @@ $\sqrt{x^2 + 10x + 21} = 3\sqrt{x + 3} + 2\sqrt{x + 7} - 6$
 $4 x^{2}+4 a x+b=0,4 x^{2}+4 b x+c=0,4 x^{2}+4 c x+a=0$. Chứng minh rằng trong ba phương trình
 trên có ít nhất một phương trình có nghiệm và có ít nhất một phương trình vô nghiệm.
 
-\textbf{Bài 11:} Tìm tất cả các bộ số nguyên dương $(a, b)$ thỏa mãn $b^{2}+3a\vdots a^{2} b$
+\textbf{Bài 11:} Tìm tất cả các bộ số nguyên dương $(a, b)$ thỏa mãn $b^{2}+3 a\vdots  a^{2} b$
 
 \textbf{Bài 12:} Chứng minh rằng không tồn tại số nguyên $n$ thỏa mãn $\left(2020^{2020}+1\right) \vdots\left(n^{3}+2018 n\right)$.
 
