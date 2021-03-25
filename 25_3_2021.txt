@@ -49,7 +49,7 @@ $\sqrt{x^2 + 10x + 21} = 3\sqrt{x + 3} + 2\sqrt{x + 7} - 6$
 $4 x^{2}+4 a x+b=0,4 x^{2}+4 b x+c=0,4 x^{2}+4 c x+a=0$. Chứng minh rằng trong ba phương trình
 trên có ít nhất một phương trình có nghiệm và có ít nhất một phương trình vô nghiệm.
 
-\textbf{Bài 11:} Tìm tất cả các bộ số nguyên dương $(a, b)$ thỏa mãn $\operatorname{max} b^{2}+3 a: a^{2} b$
+\textbf{Bài 11:} Tìm tất cả các bộ số nguyên dương $(a, b)$ thỏa mãn $b^{2}+3a\vdots a^{2} b$
 
 \textbf{Bài 12:} Chứng minh rằng không tồn tại số nguyên $n$ thỏa mãn $\left(2020^{2020}+1\right) \vdots\left(n^{3}+2018 n\right)$.
 
