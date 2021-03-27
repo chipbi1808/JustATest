@@ -50,7 +50,7 @@ $$3x^2+12x\sqrt{x^2+1}+7=0$$
 \textbf{Bài 10:} Giải phương trình: $$\sqrt {\frac{6}{{3 - x}}} + \sqrt {\frac{8}{{2 - x}}} = 6$$
 
 \textbf{Bài 11:}\\ 
-1. Tồn tại hay không số nguyên dương n sao cho $2n+2021$ và $2n+2020$ đều là số chính phương\\
+1. Tồn tại hay không số nguyên dương n sao cho $2n+2021$ và $3n+2020$ đều là số chính phương\\
 2. Tìm tất cả các cặp số nguyên dương $(x,y)$ sao cho  $\frac{x^2-2}{xy+2}$ có giá trị là số nguyên
 
 \textbf{Bài 12:} Tìm số nguyên dương n lớn nhất để $A=2^{30}+2^{2020}+4^n$ là số chính phương
