@@ -1,0 +1,65 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{27/3/2021}
+
+
+\begin{document}
+
+\maketitle
+
+\textbf{Bài 1:} Cho tam giác $ABC$ nhọn nội tiếp đường tròn $(O)$ với $AB<AC$. Đường cao $BE,CF$ cắt nhau tại $H$. Đường tròn đường kính $AH$ cắt $(O)$ tại $G$ khác $A$. Phân giác góc $\angle CGE,\angle BGF$ cắt $CA,AB$ tại $M,N$. $(K)$ là đường tròn ngoại tiếp tam giác $AMN$. \\
+1) Gọi $AK$ cắt $GH$ tại $P$. Chứng minh rằng $G$ và $P$ đều nằm trên $(K)$.\\
+2) Chứng minh rằng tiếp tuyến tại $M,N$ của $(K)$ cắt nhau trên $(O)$.
+
+\textbf{Bài 2:} Cho tam giác $ABC$ nội tiếp đường tròn $(O)$. $E,F$ thuộc $(O)$ sao cho $EF\parallel BC$. $AE,AF$ cắt $BC$ tại $M,N$. $P,Q,R$ là trung điểm của $AM,AN,AC$. $BP,BQ$ cắt đường tròn $(EPR),(FQR)$ tại $S,T$ khác $P,Q$. Chứng minh rằng $\angle ASC+\angle ATC=180^\circ$.
+
+\textbf{Bài 3:} Cho tam giác $ABC$ nội tiếp $(O)$ với $AB<AC$. Tiếp tuyến tại $A$ của $(O)$ cắt $BC$ tại $T$. $AD$ là đường kính của $(O)$. $DB$ cắt $OT,AT$ tại $E,F$. $EO$ cắt $(AEF)$ tại $G$. Chứng minh rằng tâm nội tiếp tam giác $AGB$ nằm trên $(O)$.
+
+\textbf{Bài 4:} Giải phương trình
+$$\sqrt[3]{\frac{x^9-9x^2+1}{3}}=2x+1$$
+
+\textbf{Bài 5:}\\
+1. Giải phương trình sau $x-1+\sqrt{x+1}+\sqrt{2-x}=x^2+\sqrt{2}$\\
+2. Giải hệ phương trình sau 
+$\left\{\begin{matrix}  y^3+y=x^3+3x^2+4x+2\\ \sqrt{1-x^2}-\sqrt{y}=\sqrt{2-y}-1
+\end{matrix}\right.$
+
+\textbf{Bài 6:} Giải hệ phương trình 
+$$\left\{\begin{matrix}2x^2-3y^2-2x+8y-xy-5=0
+& \\ 2x^3+2y^3-5x^2y+xy^2-x^2-2y^2+2x-2y-2xy+10=0
+&\end{matrix}\right.$$
+
+\textbf{Bài 7:} Tìm m để phương trình:
+$x^2-4(m+1)x+3m^2+2m-5=0$ có 2 nghiệm phân biệt $x_{1}, x_{2}$ thỏa mãn:$x_{1}^2+4(m+1)x_{2}+3m^2+2m-5>0$
+
+\textbf{Bài 8:} Giải hệ phương trình
+$$\left\{\begin{matrix} x^{4}-y^{4}=\frac{3}{4y}-\frac{1}{2x} & \\ \left ( x^2-y^2 \right )^5-5=0 \end{matrix}\right.$$
+
+\textbf{Bài 9:}  Giải phương trình 
+$3^{x + 1} + 2x.3^{x} - 18x - 27 = 0$
+
+\textbf{Bài 9:} Giải phương trình 
+$$3x^2+12x\sqrt{x^2+1}+7=0$$
+
+\textbf{Bài 10:} Giải phương trình: $$\sqrt {\frac{6}{{3 - x}}} + \sqrt {\frac{8}{{2 - x}}} = 6$$
+
+\textbf{Bài 11:}\\ 
+1. Tồn tại hay không số nguyên dương n sao cho $2n+2021$ và $2n+2020$ đều là số chính phương\\
+2. Tìm tất cả các cặp số nguyên dương $(x,y)$ sao cho  $\frac{x^2-2}{xy+2}$ có giá trị là số nguyên
+
+\textbf{Bài 12:} Tìm số nguyên dương n lớn nhất để $A=2^{30}+2^{2020}+4^n$ là số chính phương
+
+\textbf{Bài 13:} Chứng minh với mọi $x,y,z>0$
+$$\sum_{cyc} \frac{x}{(x+y)(x+z)}\leq $$
+
+\textbf{Bài 14:} Cho $x, y, z$ là ba số thực dương tùy ý. Chứng minh rằng 
+$$28 (x^4 +y^4 +z^4) \geq (x+y+z)^4 + (y+z -x)^4 + (x+z -y)^4 + (x+y -z)^4.$$
+
+
+\end{document}
