@@ -38,7 +38,7 @@ $$\left\{\begin{array}{l}\sqrt[3]{x+2y}=4-x-2y \\ \sqrt[3]{x+6}+\sqrt[3]{2y}=2\e
 
 \textbf{Bài 7:} Giải phương trình: ${x^3} + 3{x^2} - 3\sqrt[3]{{3x + 5}} = 1 - 3x$
 
-\textbf{Bài 8:} Giải phương trình Giải phương trình $\sqrt{4y^2+x}-\sqrt{4y-x}+\sqrt{x^2+2}=0$
+\textbf{Bài 8:} Giải phương trình $\sqrt{4y^2+x}-\sqrt{4y-x}+\sqrt{x^2+2}=0$
 
 \textbf{Bài 9:} Giải phương trình $x^3 + 1 = 2\sqrt[3]{2x - 1}$.
 
