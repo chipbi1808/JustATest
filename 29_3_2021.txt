@@ -1,0 +1,58 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{29/3/2021}
+
+
+\begin{document}
+
+\maketitle
+
+\textbf{Bài 1:} Cho tam giác nhọn $ABC (AB<AC), M$ là trung điểm của $BC, O$ là tâm đường tròn ngoại tiếp . Các đường cao $AD, BE, CF$ của tam giác $ABC$ đồng quy tại $H.$ Các tiếp tuyến với $(O)$ tại $B$ và $C$ cắt nhau tại $S.$ Gọi $X, Y$ lần lượt là giao điểm của đường thẳng $EF$ với các đường thẳng $BS, AO.$ Chứng minh rằng\\
+a) $MX$ vuông góc với $BF.$\\
+b) Tam giác $SMX$ đồng dạng với Tam giác $DHF.$\\
+c) $\frac{EF}{FY}=\frac{BC}{CD}.$
+
+\textbf{Bài 2:} Cho tam giác $ABC$ ( $AB<AC$) có các góc nhọn, nội tiếp trong đường tròn tâm $O$. Gọi $M$ là trung điểm $BC$, $E$ là điểm chính giữa của cung nhỏ $BC$, $F$ là điểm đối xứng của $E$ qua $M$.\\ 
+a) Chứng minh rằng $EB^{2}=EF.EO$\\
+b) Gọi $D$ là giao điểm của $AE$ và $BC$. Chứng minh các điểm $A, D, O, F$ cùng thuộc một đường tròn. \\
+c) Gọi $I$ là tâm đường tròn nội tiếp tam giác $ABC$ và $P$ là điểm thay đổi trên đường tròn ngoại tiếp tam giác $IBC$ sao cho $P, O, F$ không thẳng hàng. Chứng minh rằng tiếp tuyến tại $P$ của đường tròn ngoại tiếp tam giác $POF$ đi qua một điểm cố định.
+
+\textbf{Bài 3:} Cho hình vuông $ABCD$ với tâm $O$. Gọi $M$ là trung điểm $AB$, Các điểm $N, P$ thuộc $BC, CD$ sao cho $MN\parallel AP$.\\
+1) Chứng minh rằng tam giác $BNO$ đồng dạng với tam giác $DOP$ và $\angle NOP=45^{\circ}$.\\
+2) Chứng minh rằng tâm đường tròn ngoại tiếp tam giác $NOP$ thuộc $OC$ và ba đường thẳng $BD, AN, PM$ đồng quy.
+
+\textbf{Bài 4:} Giải hệ phương trình
+$$\left\{\begin{array}{l}x(4y+1)-2y=-3 \\ x^2(x^2-12y)+4y^2=9\end{array}\right.$$
+
+\textbf{Bài 5:} Giải hệ phương trình
+$$\left\{\begin{array}{l} \frac{x^2}{(y+1)^2}+\frac{y^2}{(x+1)^2}=\frac{1}{2}\\ 3xy=x+y+1\end{array}\right.$$
+
+\textbf{Bài 6:} Giải hệ phương trình
+$$\left\{\begin{array}{l}\sqrt[3]{x+2y}=4-x-y \\ \sqrt[3]{x+6}+\sqrt[3]{2y}=2\end{array}\right.$$
+
+\textbf{Bài 7:} Giải phương trình: ${x^3} + 3{x^2} - 3\sqrt[3]{{3x + 5}} = 1 - 3x$
+
+\textbf{Bài 8:} Giải phương trình Giải phương trình $\sqrt{4y^2+x}-\sqrt{4y-x}+\sqrt{x^2+2}=0$
+
+\textbf{Bài 9:} Giải phương trình $x^3 + 1 = 2\sqrt[3]{2x - 1}$.
+
+\textbf{Bài 10:} $\sqrt[3]{\left ( 3x + 1 \right )^{2}} + \sqrt[3]{\left ( 3x - 1 \right )^{2}} + \sqrt{9x^{2} - 1} = 1$
+
+\textbf{Bài 11:} Cho phương trình $x^2-2mx+m-4=0(1)$ với m là tham số\\
+a) Chứng minh rằng phương trình (1) luôn có 2 nghiệm\\
+b) Tìm m thỏa mãn $x_1+x_2=\frac{x_1^2}{x_2}+\frac{x_2^2}{x_1}$
+
+\textbf{Bài 12:} Tìm tất cả các số nguyên tố $p,q,r$ thỏa mãn $$p|(q+r), q|(r+2p), r|(p+3q)$$
+
+\textbf{Bài 13:} Chứng minh nếu $p,q$ nguyên tố và $r=\dfrac{p^2 + q^2}{p+q}$ nguyên thì $r$ nguyên tố.
+
+\textbf{Bài 14:} Cho $a,b,c$ là các số thực dương. Chứng minh rằng
+$$\sqrt{a^2+(1-b)^2}+\sqrt{b^2+(1-c)^2}+\sqrt{c^2+(1-a)^2}\geq \frac{3\sqrt{2}}{2}$$
+
+\end{document}
