@@ -28,7 +28,7 @@ c) Gọi $I$ là tâm đường tròn nội tiếp tam giác $ABC$ và $P$ là �
 2) Chứng minh rằng tâm đường tròn ngoại tiếp tam giác $NOP$ thuộc $OC$ và ba đường thẳng $BD, AN, PM$ đồng quy.
 
 \textbf{Bài 4:} Giải hệ phương trình
-$$\left\{\begin{array}{l}x(4y+1)-2y=-3 \\ x^2(x^2-12y)+4y^2=9\end{array}\right.$$
+$$\left\{\begin{array}{l}x^2(4y+1)-2y=-3 \\ x^2(x^2-12y)+4y^2=9\end{array}\right.$$
 
 \textbf{Bài 5:} Giải hệ phương trình
 $$\left\{\begin{array}{l} \frac{x^2}{(y+1)^2}+\frac{y^2}{(x+1)^2}=\frac{1}{2}\\ 3xy=x+y+1\end{array}\right.$$
