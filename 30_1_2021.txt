@@ -1,0 +1,68 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{30/3/2021}
+
+\begin{document}
+
+\maketitle
+
+\textbf{Bài 1:(Thi thử chuyên KHTN 2013, vòng 1, đợt 3)} Cho tam giác $ABC$ nội tiếp đường tròn $(O)$ cố định, $B, C$ cố định, $A$ di chuyển trên $(O)$. $D$ thuộc đoạn $BC$ sao cho $AD$ là phân giác $\angle BAC$. Đường tròn $(K)$ qua $A$ và tiếp xúc với $BC$ tại $D$.\\
+1) Chứng minh rằng $(K)$ tiếp xúc $(O)$.\\
+2) Gọi $(K)$ giao $CA, AB$ lần lượt tại $E, F$ khác $A$. $BE, CF$ lần lượt cắt $(K)$ tại $G, H$ khác $E, F$. $AG, AH$ cắt $BC$ lần lượt tại $M, N$. Chứng minh rằng độ dài $MN$ luôn không đổi khi $A$ di chuyển.
+
+\textbf{Bài 2:(Thi thử chuyên KHTN 2013, vòng 2, đợt 3)} Cho tam giác $ABC$ nội tiếp đường tròn $(O)$. $P$ là một điểm nằm trong tam giác $ABC$. Trung trực $CA, AB$ lần lượt cắt $PA$ tại $E, F$. Đường thẳng qua $E$ song song $AC$ cắt tiếp tuyến tại $C$ của $(O)$ tại $M$. Đường thẳng qua $F$ song song $AB$ cắt tiếp tuyến tại $B$ của $(O)$ tại $N$.\\
+1) Chứng minh rằng $MN$ tiếp xúc $(O)$.\\
+2) Gọi $MN$ cắt dường tròn ngoại tiếp các tam giác $ACM, ABN$ lần lượt tại $Q,R$ khác $M, N$. Chứng minh rằng $BQ$ và $CR$ cắt nhau trên $(O)$.
+
+\textbf{Bài 3:(Thi thử chuyên KHTN 2013, vòng 1, đợt 4)} Cho tam giác $ABC$, đường tròn nội tiếp $(I)$ tiếp xúc $BC, CA, AB$ lần lượt tại $D, E, F$. Gọi $K, L$ lần lượt là hình chiếu của $A$ trên $DE, DF$. Gọi $IA$ giao $EF$ tại $M$.\\
+1) Chứng minh rằng $M$ là trực tâm tam giác $DKL$.\\
+2) Gọi $P$ đối xứng $E$ qua $K$. $Q$ đối xứng $F$ qua $L$. Chứng minh rằng $QE, PF$ cắt nhau trên đường tròn $(I)$.
+
+\textbf{Bài 4:} Giải hệ phương trình
+$$\left\{\begin{matrix}x+x\sqrt{x}-3\sqrt{x}-2xy+6y-3=0\\ 
+\sqrt{x+2y+1}+\sqrt[3]{x-2y+2}=3
+\end{matrix}\right.$$
+
+\textbf{Bài 5:} Giải hệ phương trình
+$$\left\{\begin{matrix}2x+1=y^2+4y\sqrt{x}\\ 
+y+\sqrt{x}+1=y\sqrt{x}
+\end{matrix}\right.$$
+
+\textbf{Bài 6:} Cho ba số thực $x,y,z$ thỏa mãn $x+y+z=0$ và $xy+yz+xz=-3$. Tính giá trị biểu thức $S=x^3y+y^3z+z^3x$
+
+\textbf{Bài 7:}\\
+a) Xét 2 số thực a,b thay đổi thỏa mãn $a<>0$ và $ab<>-2$. Tìm Min của biểu thức
+$$P=\frac{\frac{2(a-b)^2}{(ab+2)^2}+1}{1-\frac{4+4ab-2a^2}{(ab+2)^2}}-\frac{8-a}{a}$$
+b) Cho 2 số thực dương $x,y$ thỏa mãn $\frac{1}{x}+\frac{1}{y}+\frac{1}{(\sqrt{x}+\sqrt{y})^2}=169$. Chứng minh rằng
+$$\frac{1}{\sqrt{x}}+\frac{1}{\sqrt{y}}-\frac{1}{\sqrt{x}+\sqrt{y}}=13$$
+
+\textbf{Bài 8:} Giải phương trình:
+$$x+\frac{x}{\sqrt{x^2-1}}=2\sqrt{2}$$
+
+\textbf{Bài 9:} Giải phương trình :
+$$x^{3} + 3xy + y^{3} = \left ( x + y \right )^{3}\left ( x - y \right )^{3}$$
+
+\textbf{Bài 10:} Tìm cặp số nguyên dương $x,n$ sao cho
+$$\frac{3^{2n + 1} - 1}{2} = x^2$$
+
+\textbf{Bài 11:} Có tồn tại hay không số nguyên dương k sao cho $2^k+3^k$ là số chính phương
+
+\textbf{Bài 12:} Giải phương trình $$(x^2+1)(x-1)(x-3)=15(2x-1)^2$$
+
+\textbf{Bài 13:} Cho $x,y,z$ là các số nguyên đôi một khác nhau. Chứng minh rằng
+$$5(x-y)(y-z)(z-x)|(x-y)^5+(y-z)^5+(z-x)^5$$
+
+\textbf{Bài 14:} Cho các số thực không âm $a,b,c$. Chứng minh rằng
+$$\frac{a(b+c)}{a^2+bc}+\frac{b(c+a)}{b^2+ac}+\frac{c(a+b)}{c^2+ab}\geq 2$$
+
+
+
+
+
+\end{document}
