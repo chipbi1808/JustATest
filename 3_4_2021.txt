@@ -1,0 +1,66 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{02/4/2021}
+
+\begin{document}
+
+\maketitle
+
+\textbf{Bài 1(Vòng 2 chuyên Hà Tĩnh 2016 2017): }  Cho tam giác đều ABC nội tiếp đường tròn tâm O. Điểm E thay đổi trên cung nhỏ AB (E khác A và B). Từ B và C lần lượt kẻ các tiếp tuyến với đường tròn (O), các tiếp tuyến này cắt đường thẳng AE theo thứ tự tại M và N. Gọi F là giao điểm của BN và CM\\
+a) Chứng minh rằng $MB.CN=BC^{2}$\\
+b) Khi điểm E thay đổi trên cung nhỏ AB. Chứng minh rằng đường thẳng EF luôn đi qua một điểm cố định
+
+\textbf{Bài 2(V2 chuyên Thái Nguyên 2015 2016):} Cho tứ giác $ABCD.$ Các đường phân giác của hai góc $\angle BAD$ và $\angle ABC $cắt nhau ở $M.$ Các đường phân giác của hai góc $\angle BCD$ và $\angle ADC$ cắt nhau ở $N.$ Giả sử đường thẳng $BM$ cắt $CN$ ở $P, AM$ cắt $DN$ ở $Q.$ \\
+a, CMR: bốn điểm $M,N,P,Q$ cùng thuộc một đường tròn\\
+b,Kí hiệu $I, K, J, H$ lần lượt là tâm các đường tròn nội tiếp các tam giác $MAB, NCD, PBC, QAD.$ Các đường thẳng $MI, NK, PJ, QH$ cắt đường tròn đi qua bốn điểm $M,N,P,Q$ tại $I_{1}, K_{1}, J_{1}, H_{1}.$
+
+\textbf{Bài 3(Đề thi vào 10 Chuyên Toán Phan Bội Châu - Nghệ An 2014 - 2015):} Cho tam giác ABC nhọn nội tiếp đường tròn (O) có các đường cao AE và CF cắt nhau tại H. P là điểm thuộc cung nhỏ BC (P khác B, C). M, N là hình chiếu của P lên AB, AC. Chứng minh rằng: Trung điểm HP thuộc MN. 
+
+\textbf{Bài 4:} Giải hệ phương trình
+$$\left\{\begin{matrix}(x+y)(x+1)(y+1)=8\\ 
+y^3+y+16=6x(x+2)
+\end{matrix}\right.$$
+
+\textbf{Bài 5:} Giải hệ phương trình
+$$\left\{\begin{matrix}(1+\frac{2}{y+2x})\sqrt{x}=\frac{4}{3}\\ 
+(1-\frac{2}{y+2x})\sqrt{y}=\frac{4}{3}
+\end{matrix}\right.$$
+
+\textbf{Bài 6:} Giải phương trình
+$$(8\sqrt{3x+1}+3\sqrt{4x+5})(4x+3)=156x+19$$
+
+\textbf{Bài 7:} Giải phương trình
+$$\frac{2\sqrt{x^2+2x+10}}{x^2+2x+19}=\frac{\sqrt{4x^2+9}}{2x^2+9}$$
+
+\textbf{Bài 8:} Giải hệ phương trình 
+$$\left\{\begin{matrix}xy^2+3x^2=2y\\ 
+x^2y+y^2=-2x
+\end{matrix}\right.$$
+
+\textbf{Bài 9:} Cho phương trình $x^2+4x-m=0$(1) với m là tham số. Tìm m thỏa mãn $(\frac{1}{x_1}+\frac{1}{x_2})(x_1^2+x_2^2)=4(m+2)$
+
+\textbf{Bài 10:} Tìm các số nguyên tố sao cho:
+$p+q=(p-q)^{3}$
+
+\textbf{Bài 11:} \\
+a) Tính tổng tất cả các số nguyên x thỏa mãn $x^2+x-a=0$ với a là số nguyên tố\\
+b) Tìm nghiệm tổng quát nguyên dương của phương trình $(x+y)^2+y+3x=z^2+1$
+
+
+\textbf{Bài 12:} Tồn tại hay không các số tự nhiên $z,y,z$ thỏa mãn
+$$6x^2+11xy+4y^2=7^{4z+2}-4$$
+
+\textbf{Bài 13:} Cho các số thực dương $a,b,c,d$. Chứng minh rằng
+$$\frac{a^3+b^3}{\sqrt{a^2-ab+b^2}}+\frac{b^3+c^3}{\sqrt{b^2-bc+c^2}}+\frac{c^3+d^3}{\sqrt{c^2-cd+d^2}}+\frac{d^3+a^3}{\sqrt{d^2-ad+a^2}}\geq 2(a^2+b^2+c^2+d^2)$$
+
+\textbf{Bài 14:} Cho 3 số thực dương $a,b,c$. Chứng minh rằng
+$$(ab+bc+ac+1)(a+b)(b+c)(a+c)\geq 2abc(a+b+c+1)^2$$
+
+
+\end{document}
