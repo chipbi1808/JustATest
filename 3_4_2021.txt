@@ -1,0 +1,68 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{03/4/2021}
+
+\begin{document}
+
+\maketitle
+
+\textbf{Bài 1[Đề vào 10 chuyên Lê Quý Đôn Đà Nẵng 2016 - 2017]:} Cho tam giác ABC có $\widehat{BAC}> 90^{0}$, AB < AC và nội tiếp đường tròn tâm O. Trung tuyến AM của tam giác ABC cắt (O) tại điểm thứ hai D. Tiếp tuyến của (O) tại D cắt đường thẳng BC tại S. Trên cung nhỏ DC của (O) lấy điểm E, đường thẳng SE cắt (O) tại điểm thứ hai là F. Gọi P, Q lần lượt là giao điểm của các đường thẳng AE, AF với BC\\
+a) Chứng minh rằng MODS là tứ giác nội tiếp\\
+b) Chứng minh rằng QB = PC
+
+\textbf{Bài 2[Đề TS vào lớp 10 THPT Chuyên Ngoại Ngữ, Đại học Ngoại Ngữ, Đại học Quốc gia Hà Nội 2014 - 2015]:} Cho tam giác ABC (AB < AC) nhọn nội tiếp (O). Kẻ đường cao AH. Gọi P, Q lần lượt là chân đường vuông góc kẻ từ H đến AB, AC.\\
+a) Chứng minh: BCQP nội tiếp.\\
+b) PQ kéo dài cắt BC tại M. Chứng minh : $MH^{2}=MB.MC$.\\
+c) K là giao điểm của MA với đường tròn (O) (K khác A). I là tâm đường tròn ngoại tiếp tứ giác BCQP. Chứng minh rằng: I, H, K thẳng hàng.
+
+\textbf{Bài 3(Đề thi vào chuyên toán THPT chuyên Vĩnh Phúc 2013-2014): } Cho tam giác $ABC$ nhọn $(AB<AC).$ Gọi $D,E,F$ lần lượt là chân các đường cao hạ từ $A,B,C.$ Gọi $P=BC\cap EF.$ Đường thẳng qua $D$ song song với $EF$ cắt $AB,AC,CF$ lần lượt tại $Q,R,S.$ Chứng minh rằng:\\ 
+a) Tứ giác $BQCR$ nội tiếp.\\
+b) $D$ là trung điểm của $QS.$\\
+c) $(PQR)$ chia đôi $BC.$
+
+\textbf{Bài 4:} Tìm cặp số nguyên dương x, y sao cho $\dfrac{x^3+x}{xy-1}$ là số nguyên dương.
+
+\textbf{Bài 5:} Tìm 3 số nguyên tố $a,b,c$ sao cho $a^{b}+b^{a}=c$
+
+\textbf{Bài 6:} Cho 3 số thực dương $a,b,c$ thỏa mãn $a^2=b^2+bc$ và $b^2=c^2+ac$. Chứng minh rằng 
+$$\frac{1}{a}+\frac{1}{b}=\frac{1}{c}$$
+
+\textbf{Bài 7:} Cho 4 số thực dương $a,b,c,d$ thỏa mãn $a+b=c+d$ và $\frac{a^2}{b}+\frac{b^2}{a}=\frac{c^2}{d}+\frac{d^2}{c}$. Chứng minh rằng
+$$\frac{1}{a^{69}}+\frac{1}{b^{69}}=\frac{1}{c^{96}}+\frac{1}{d^{69}}$$
+
+\textbf{Bài 8:} Giải hệ phương trình
+$$\left\{\begin{matrix}xy+x+y=x^2-2y^2\\ 
+x\sqrt{2y}-y\sqrt{x-1}=2x-2y
+\end{matrix}\right.$$
+
+\textbf{Bài 9:} Giải phương trình
+$$6x\sqrt{2x^3+7}=6x^3+2x+22-4\sqrt{2x^3+7}$$
+
+\textbf{Bài 10:} Giải hệ phương trình
+$$\left\{\begin{matrix}y^2-y(x^2-x-1)=x^2-x\\ 
+y(x^2+1)-x^3+x^2=2
+\end{matrix}\right.$$
+
+\textbf{Bài 11:}\\
+a) Tìm tất cả các số thực $a$ thỏa mãn phương trình $x^2+ax+4-a=0$ có 2 nghiệm thực phân biệt $x_1,x_2$ và $x_1-x_2=x_2^2$\\
+b) Tìm tất cả các cắp số thực $(a,b)$ với $b>0$ thỏa mãn mỗi phương trình trong hai phương trình $x^2+ax+a-b=0$ và $x^2+ax+a+b=0$ đều có 2 nghiệm nguyên phân biệt, đồng thời các nghiệm nguyên của hai phương trình này là bốn số nguyên liên tiếp
+
+\textbf{Bài 12:} Giải phương trình $x^2-5x-4\sqrt{x+1}+14=0$
+
+\textbf{Bài 13:} Cho các số nguyên dương $x,y$ thỏa mãn: $x^3-9y^2+9x-6y=1$\\
+a) Chứng minh $\frac{x}{x^2+9}$ là phân số tối giản\\
+b) Tìm tất cả các cặp số $(x,y)$
+
+\textbf{Bài 14:} Cho $a,b,c$ là độ dài 3 cạnh của một tam giác. Chứng minh rằng 
+$$\sum_{cyc} \frac{a}{\sqrt{a^2+3bc}}\geq \frac{3}{2}$$
+
+
+
+
+\end{document}
