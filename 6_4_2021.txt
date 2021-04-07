@@ -1,0 +1,56 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage[left=1.00cm, right=1.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\title{JAT}
+\author{Miwh}
+\date{06/4/2021}
+
+\begin{document}
+
+\maketitle
+
+\textbf{Bài 1[Duy Khương]:} Cho tam giác $ABC$ nội tiếp $(O)$. Một đường tròn $(K)$ qua $B,C$ cắt $AB,AC$ tại $E,F$. Một đường thẳng $d$ qua $A$ sao cho $d$ cắt $(O),(AEF)$ lần lượt lại $M,N$. Chứng minh rằng: $KM=KN$.
+
+\textbf{Bài 2[Đề chọn đội tuyển thi VMO - Hà Nội 2014 - 2015]:} Cho tứ giác ABCD (AB < BD) nội tiếp (O) biết AC = CD. Gọi I là tâm đường tròn nội tiếp tam giác ABD. Gọi (BIC) cắt AB tại điểm thứ hai là F. Gọi E là trung điểm AD. Chứng minh rằng: AI vuông góc với EF.
+
+\textbf{Bài 3[VMO ngày 1 2013-2014]:} Cho tam giác ABC nhọn (AB < AC) nội tiếp (O). Gọi I là trung điểm cung BC không chứa điểm A.Trên AC lấy K khác C sao cho IK = IC. BK cắt (O) tại D và cắt AI tại E. DI cắt AC tại F.\\
+a) Chứng minh rằng: BC = 2EF.\\
+b) Trên DI lấy M sao cho CM // AD.KM cắt BC tại N. (BKN) cắt (O) tại P. Chứng minh: PK đi qua trung điểm AD 
+
+\textbf{Bài 4:} Giải hệ phương trình
+$$\left\{\begin{matrix}\sqrt{3x-1}+4(2x+1)=\sqrt{y-1}+3y\\ 
+(x+y)(2x-y)+6x+3y+4=0
+\end{matrix}\right.$$
+
+\textbf{Bài 5:} Giải hệ phương trình
+$$\left\{\begin{matrix}(x^2+2)\sqrt{y+1}-(y+2)\sqrt{x^2+1}=0\\x^4-y^2-3x^2y-5y+8=0
+\end{matrix}\right.$$
+
+\textbf{Bài 6:} Giải hệ phương trình
+$$\left\{\begin{matrix}2x^2+x+\sqrt{x+2}=2y^2+y+\sqrt{2y+1}\\ x^2+2y^2-2x+y-2=0
+\end{matrix}\right.$$
+
+\textbf{Bài 7:} Giải phương trình $$\sqrt{x^2+5x+5}+x^2=\sqrt{x+2}-3x-2$$
+
+\textbf{Bài 8:} Giải phương trình $$\sqrt{x^2+x-2}+x^2=\sqrt{2(x-1)}+1$$
+
+\textbf{Bài 9:} Giải phương trình $$\sqrt{x^2+x-2}+\sqrt{x-1}=x^2-1$$
+
+\textbf{Bài 10:} Tìm bộ ba số nguyên dương $a,b,c$ sao cho $abc+1$ chia hết cho $a^2+b^2$
+
+\textbf{Bài 11:} Giải phương trình nghiệm nguyên $3^x+7^y=4^z$
+
+\textbf{Bài 12:} Cho hai số $a,b$ thỏa mãn $a-b=1$. Tính 
+$$P=a^4-4ab^3+3a^2b^2-a^3b-3a^2b+b^4$$
+
+\textbf{Bài 13:} Cho 2 số thực $m,n$ khác 0 thỏa mãn $\frac{1}{m}+\frac{1}{n}=\frac{1}{2}$. Chứng minh rằng phương trình sau luôn có nghiệm
+$$(x^2+mx+n)(x^2+nx+m)=0$$
+
+\textbf{Bài 14} Với mọi $a,b,c>0$. CMR
+$$\sum \frac{ab}{a^2+ab+b^2}\geq \sum 
+\frac{a}{2a+b}$$
+
+\end{document}
